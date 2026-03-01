@@ -1,11 +1,11 @@
 # Daily Report 2026-03-01
 - Repo: Awesome Skills
-- New today: 2921 | Total: 2921 | Stars: 7,708,295
+- New today: 2921 | Total: 2921 | Stars: 7,708,529
 - Link: https://github.com/lllray/awesome-skills
 
 ## Top 5 Trending
-1. [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) +150⭐ — The agent harness performance optimization system. Skills, instincts, memory, se
-2. [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) +132⭐ — OpenSandbox is a general-purpose sandbox platform for AI applications, offering 
-3. [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) +124⭐ — The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorize
-4. [obra/superpowers](https://github.com/obra/superpowers) +102⭐ — An agentic skills framework & software development methodology that works.
-5. [ruvnet/ruflo](https://github.com/ruvnet/ruflo) +76⭐ — 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-
+1. [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) +163⭐ — The agent harness performance optimization system. Skills, instincts, memory, se
+2. [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) +141⭐ — OpenSandbox is a general-purpose sandbox platform for AI applications, offering 
+3. [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) +136⭐ — The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorize
+4. [obra/superpowers](https://github.com/obra/superpowers) +109⭐ — An agentic skills framework & software development methodology that works.
+5. [ruvnet/ruflo](https://github.com/ruvnet/ruflo) +82⭐ — 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-

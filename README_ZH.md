@@ -38,26 +38,26 @@
 
 | # | 项目 | ⭐ | 📈 日增 | 描述 |
 |:-:|------|---:|-------:|------|
-| 1 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 55,287 | +150 | 经纪人利用性能优化系统,技能,本能,记忆,安全,以及对克劳德代码,Codex,Cowork等领域的研... |
-| 2 | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | 2,715 | +132 | 开放Sandbox是一个用于人工智能应用的一般用途沙盒平台,提供多语言SDK,统一的沙盒API和Do... |
-| 3 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 23,468 | +124 | 5,400+技能从官方OpenClaw技能登记册中过和分类. |
-| 4 | [obra/superpowers](https://github.com/obra/superpowers) | 66,321 | +102 | 提供一个有效的代理技能框架和软件开发方法. |
-| 5 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 16,809 | +76 |  克劳德的领先代理配套平台.部署智能多代理群体,协调自主工作流程,构建对话式人工智能系统.具有企业级... |
-| 6 | [anthropics/skills](https://github.com/anthropics/skills) | 79,776 | +74 | 代理技能公开存储库 |
-| 7 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 21,953 | +57 | 一个跨平台桌面所有在一个助理工具,用于克劳德代码,Codex,OpenCode & Gemini C... |
-| 8 | [mksglu/claude-context-mode](https://github.com/mksglu/claude-context-mode) | 695 | +55 | 停止对大输出失去背景. |
-| 9 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 113,292 | +53 | 开源编码代理. |
-| 10 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 6,953 | +53 | 吉特尼克斯:零服务器代码智能引擎 - GitNexus是一个客户端知识图表创建器,完全运行在浏览器中... |
-| 11 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 72,047 | +52 | 克劳德代码是一个代理编码工具,它生活在终端中,理解你的代码基础,并通过执行常规任务,解释复杂代码和处... |
-| 12 | [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) | 3,565 | +50 | 代理技能,生成丰富的HTML页面或幻灯片,用于图表,差异评价,计划审计,数据表和项目总结 |
-| 13 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 17,419 | +46 | 对于克劳德代码/反重力/课程的900多种代理技能的终极集合. |
-| 14 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 98,395 | +45 | 采用OpenAI,人类,双胞胎和开源模型的AI代理和RAG的惊人的LLM应用程序. |
-| 15 | [block/goose](https://github.com/block/goose) | 31,590 | +44 | 开源,可扩展的AI代理,超越代码建议 - 安装,执行,编辑和测试任何LLM |
-| 16 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 35,752 | +43 | 提供设计智能技术,用于构建专业的UI/UX多个平台 |
-| 17 | [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) | 22,459 | +42 | 对于TÂCHES的Claude Code,一个轻量级而强大的超级提示,文本工程和基于规格的开发系统. |
-| 18 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 126,612 | +39 | 完整增强代码,克劳德代码,克鲁利,代码Buddy,彗星,课程,德文AI,朱尼,基罗,Leap.new... |
-| 19 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 19,649 | +39 | 是你需要的 - 一个像纳米克劳德代码的代理,从0到1构建 |
-| 20 | [white0dew/XiaohongshuSkills](https://github.com/white0dew/XiaohongshuSkills) | 763 | +36 | 支持小红书自动发布"",自动评论"",自动检索的技能"",支持OpenClaw"",Codex"",... |
+| 1 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 55,300 | +163 | 经纪人利用性能优化系统,技能,本能,记忆,安全,以及对克劳德代码,Codex,Cowork等领域的研... |
+| 2 | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | 2,724 | +141 | 开放Sandbox是一个用于人工智能应用的一般用途沙盒平台,提供多语言SDK,统一的沙盒API和Do... |
+| 3 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 23,480 | +136 | 5,400+技能从官方OpenClaw技能登记册中过和分类. |
+| 4 | [obra/superpowers](https://github.com/obra/superpowers) | 66,328 | +109 | 提供一个有效的代理技能框架和软件开发方法. |
+| 5 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 16,815 | +82 |  克劳德的领先代理配套平台.部署智能多代理群体,协调自主工作流程,构建对话式人工智能系统.具有企业级... |
+| 6 | [anthropics/skills](https://github.com/anthropics/skills) | 79,782 | +80 | 代理技能公开存储库 |
+| 7 | [mksglu/claude-context-mode](https://github.com/mksglu/claude-context-mode) | 701 | +61 | 停止对大输出失去背景. |
+| 8 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 21,956 | +60 | 一个跨平台桌面所有在一个助理工具,用于克劳德代码,Codex,OpenCode & Gemini C... |
+| 9 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 72,055 | +60 | 克劳德代码是一个代理编码工具,它生活在终端中,理解你的代码基础,并通过执行常规任务,解释复杂代码和处... |
+| 10 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 113,297 | +58 | 开源编码代理. |
+| 11 | [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) | 3,572 | +57 | 代理技能,生成丰富的HTML页面或幻灯片,用于图表,差异评价,计划审计,数据表和项目总结 |
+| 12 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 6,957 | +57 | 吉特尼克斯:零服务器代码智能引擎 - GitNexus是一个客户端知识图表创建器,完全运行在浏览器中... |
+| 13 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 98,397 | +47 | 采用OpenAI,人类,双胞胎和开源模型的AI代理和RAG的惊人的LLM应用程序. |
+| 14 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 17,419 | +46 | 对于克劳德代码/反重力/课程的900多种代理技能的终极集合. |
+| 15 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 35,754 | +45 | 提供设计智能技术,用于构建专业的UI/UX多个平台 |
+| 16 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 126,618 | +45 | 完整增强代码,克劳德代码,克鲁利,代码Buddy,彗星,课程,德文AI,朱尼,基罗,Leap.new... |
+| 17 | [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) | 22,462 | +45 | 对于TÂCHES的Claude Code,一个轻量级而强大的超级提示,文本工程和基于规格的开发系统. |
+| 18 | [block/goose](https://github.com/block/goose) | 31,590 | +44 | 开源,可扩展的AI代理,超越代码建议 - 安装,执行,编辑和测试任何LLM |
+| 19 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 19,653 | +43 | 是你需要的 - 一个像纳米克劳德代码的代理,从0到1构建 |
+| 20 | [white0dew/XiaohongshuSkills](https://github.com/white0dew/XiaohongshuSkills) | 768 | +41 | 支持小红书自动发布"",自动评论"",自动检索的技能"",支持OpenClaw"",Codex"",... |
 
 ---
 
@@ -85,42 +85,42 @@
 |------|---:|:----:|------|
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 241,485 | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way.... |
 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 182,108 | Python | AutoGPT is the vision of accessible AI for everyone, to use and to bui... |
-| [f/prompts.chat](https://github.com/f/prompts.chat) | 149,363 | HTML | 免费和开源 自主主机为您的组织提供,完全隐私. |
+| [f/prompts.chat](https://github.com/f/prompts.chat) | 149,366 | HTML | 免费和开源 自主主机为您的组织提供,完全隐私. |
 | [f/awesome-chatgpt-prompts](https://github.com/f/prompts.chat) | 149,350 | HTML | 免费和开源 自主主机为您的组织提供,完全隐私. |
 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 145,162 | Python | 长流是建立和部署人工智能驱动的代理和工作流的强大的工具. |
 | [langgenius/dify](https://github.com/langgenius/dify) | 130,747 | TypeScript | 准备生产的平台,用于开发代理工作流程. |
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 126,612 | - | 完整增强代码,克劳德代码,克鲁利,代码Buddy,彗星,课程,德文AI,朱尼,基罗,Leap.new,可爱,曼努斯,NotionAI,Orc... |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 113,292 | TypeScript | 开源编码代理. |
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 98,395 | Python | 采用OpenAI,人类,双胞胎和开源模型的AI代理和RAG的惊人的LLM应用程序. |
-| [anthropics/skills](https://github.com/anthropics/skills) | 79,776 | Python | 代理技能公开存储库 |
-| [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | 79,744 | TypeScript | 模型语境协议服务器 |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 126,618 | - | 完整增强代码,克劳德代码,克鲁利,代码Buddy,彗星,课程,德文AI,朱尼,基罗,Leap.new,可爱,曼努斯,NotionAI,Orc... |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 113,297 | TypeScript | 开源编码代理. |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 98,397 | Python | 采用OpenAI,人类,双胞胎和开源模型的AI代理和RAG的惊人的LLM应用程序. |
+| [anthropics/skills](https://github.com/anthropics/skills) | 79,782 | Python | 代理技能公开存储库 |
+| [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | 79,746 | TypeScript | 模型语境协议服务器 |
 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 79,238 | Python | 让人工智能代理人访问网站. |
 | [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | 77,163 | C++ | 任何设备上运行本地LLM.开源,可用于商业用途. |
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 72,047 | Shell | 克劳德代码是一个代理编码工具,它生活在终端中,理解你的代码基础,并通过执行常规任务,解释复杂代码和处理git工作流来帮助你更快地编码 - -... |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 72,055 | Shell | 克劳德代码是一个代理编码工具,它生活在终端中,理解你的代码基础,并通过执行常规任务,解释复杂代码和处理git工作流来帮助你更快地编码 - -... |
 | [ansible/ansible](https://github.com/ansible/ansible) | 68,144 | Python | 无能是一个极其简单的IT自动化平台,使您的应用程序和系统更容易部署和维护.自动化从代码部署到网络配置到云管理,用简单的英语,使用SSH,无需... |
-| [obra/superpowers](https://github.com/obra/superpowers) | 66,321 | Shell | 提供一个有效的代理技能框架和软件开发方法. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 66,328 | Shell | 提供一个有效的代理技能框架和软件开发方法. |
 | [OpenInterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) | 62,470 | Python | A natural language interface for computers |
 | [openai/codex](https://github.com/openai/codex) | 62,457 | Rust | 轻量级编码代理,在你的终端运行 |
-| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 55,287 | JavaScript | 经纪人利用性能优化系统,技能,本能,记忆,安全,以及对克劳德代码,Codex,Cowork等领域的研究. |
+| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 55,300 | JavaScript | 经纪人利用性能优化系统,技能,本能,记忆,安全,以及对克劳德代码,Codex,Cowork等领域的研究. |
 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 55,215 | JavaScript | 具有内置RAG,AI代理,无代码代理构建器,MCP兼容性等. |
 | [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 45,302 | Java | AI低代码平台AI低代码平台使企业能够快速开发低代码解决方案和构建AI应用. 助力企业快速实现低代码开发和构建AI应用!AI应用平台包括:A... |
 | [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) | 41,654 | Python | 牛代理是基于大型模型的超级AI助理,能够主动思考和任务规划,访问操作系统和外部资源,创造和执行技能,拥有长期记忆并不断成长.同时支持飞书,钉... |
 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 40,432 | TypeScript | 智能聊天,自主代理商和300多名助理的AI生产力工作室. |
 | [lm-sys/FastChat](https://github.com/lm-sys/FastChat) | 39,419 | Python | 提供培训,服务和评估大型语言模型的开放平台. |
-| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 38,896 | Python | 编辑列表: 伟大的克劳德技能,资源和工具, |
+| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 38,903 | Python | 编辑列表: 伟大的克劳德技能,资源和工具, |
 | [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) | 38,146 | MDX |  通过定制规则和行为来增强Cursor AI编辑体验的配置文件 |
 | [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | 34,220 | TypeScript | 增强的聊天GPT克隆:特征代理,MCP,深度搜索,人类,AWS,OpenAI,响应API,Azure,Groq,o1,GPT-5,Mistr... |
 | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 33,775 | Jupyter Notebook | 展示使用克劳德的有趣有效方法. |
 | [TabbyML/tabby](https://github.com/TabbyML/tabby) | 32,964 | Rust | 自主托管的AI编码助理 |
 | [khoj-ai/khoj](https://github.com/khoj-ai/khoj) | 32,694 | Python | Your AI second brain. Self-hostable. Get answers from the web or your ... |
 | [alibaba/nacos](https://github.com/alibaba/nacos) | 32,672 | Java | 简单使用的动态服务发现,配置和服务管理平台,用于构建AI云本土应用. |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 31,898 | TypeScript | 通过使用Claude的代理sdk,将相关的文本直接注入到未来的会议中. |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 31,900 | TypeScript | 通过使用Claude的代理sdk,将相关的文本直接注入到未来的会议中. |
 | [block/goose](https://github.com/block/goose) | 31,590 | Rust | 开源,可扩展的AI代理,超越代码建议 - 安装,执行,编辑和测试任何LLM |
 | [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) | 30,271 | Python | 编码和文档,培训斯坦福的阿尔帕卡模型, |
-| [wshobson/agents](https://github.com/wshobson/agents) | 29,791 | Python | 智能自动化和多代理管弦乐器,用于Claude Code |
-| [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 28,649 | TypeScript | 使用Claude Code作为编码基础设施的基础, 让你决定如何与模型互动,同时享受来自Anthropic的更新. |
+| [wshobson/agents](https://github.com/wshobson/agents) | 29,792 | Python | 智能自动化和多代理管弦乐器,用于Claude Code |
+| [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 28,650 | TypeScript | 使用Claude Code作为编码基础设施的基础, 让你决定如何与模型互动,同时享受来自Anthropic的更新. |
 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 27,225 | TypeScript | 编译功能1000多套工具包,工具搜索,语境管理,身份验证和一个沙盒的工作台, |
-| [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 26,555 | TypeScript | 针对AI编码助手的基于规格的开发 (SDD). |
+| [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 26,556 | TypeScript | 针对AI编码助手的基于规格的开发 (SDD). |
 | [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) | 26,348 | - | 惊人的LLM:大语言模型的编辑列表 |
 | [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) | 26,150 | - | 人工智能自主代理人的列表 |
 
@@ -131,10 +131,10 @@
 | 项目 | ⭐ | 语言 | 描述 |
 |------|---:|:----:|------|
 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 96,048 | TypeScript | 开源人工智能代理,将双子座的力量直接带到你的终端. |
-| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 81,851 | - | 它们是MCP服务器的集合. |
+| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 81,853 | - | 它们是MCP服务器的集合. |
 | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | 14,131 | TypeScript | 对于您构建n8n工作流程的Clode Desktop/Claude Code/Windsurf/Cursor |
 | [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) | 6,496 | Go | 社区驱动的模型语境协议 (MCP) 服务器登记服务. |
-| [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) | 6,301 | - | 服务器,服务器,服务器,服务器,服务器 |
+| [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) | 6,302 | - | 服务器,服务器,服务器,服务器,服务器 |
 | [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) | 5,047 | TypeScript | 5ire是一个跨平台桌面AI助理,MCP客户端.它与主要服务提供商兼容,通过模型文本协议服务器支持本地知识库和工具. |
 | [getsentry/XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) | 4,501 | TypeScript | 提供在iOS和macOS项目上工作时使用代理工具的模型语境协议 (MCP) 服务器和CLI. |
 | [wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) | 3,670 | - | 模型语境协议 (MCP) 服务器的编辑列表 |
@@ -205,7 +205,7 @@
 | 项目 | ⭐ | 语言 | 描述 |
 |------|---:|:----:|------|
 | [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) | 58,475 | - | 聊天GPT 中文调教指南──各种场景使用指南──学习如何让它听你的话── |
-| [github/awesome-copilot](https://github.com/github/awesome-copilot) | 23,007 | JavaScript | 社区提供指令,提示和配置,帮助您充分利用GitHub Copilot. |
+| [github/awesome-copilot](https://github.com/github/awesome-copilot) | 23,008 | JavaScript | 社区提供指令,提示和配置,帮助您充分利用GitHub Copilot. |
 | [powerline/powerline](https://github.com/powerline/powerline) | 14,711 | Python | 电源线是 vim 的状态线插件,为包括 zsh, bash, tmux, IPython, Awesome 和 Qtile 其他几个应用程序... |
 | [ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro) | 9,177 | - |  精彩的纳米香专业提示和例子列表.您的首选资源是掌握快速工程和探索纳米香专业的创造力. |
 | [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) | 8,376 | TypeScript | 全球最大的纳米香Pro提示库  10,000+ 个预览图像,16种语言的提示.谷歌双胞胎人工智能图像生成.免费和开源. |
@@ -218,7 +218,7 @@
 | [Bhartendu-Kumar/rules_template](https://github.com/Bhartendu-Kumar/rules_template) | 1,063 | - | 如果使用Cline/RooCode/Cursor/Windsurf 设置这些规则.可用于新手骑AI波和经验丰富的人. 结合: (1) 记忆,... |
 | [ttengwang/Awesome_Prompting_Papers_in_Computer_Vision](https://github.com/ttengwang/Awesome_Prompting_Papers_in_Computer_Vision) | 925 | - | 计算机视觉和视觉语言学习的快速论文. |
 | [browser-use/awesome-prompts](https://github.com/browser-use/awesome-prompts) | 898 | - | 惊人的浏览器使用提示表 |
-| [skills-directory/skill-codex](https://github.com/skills-directory/skill-codex) | 713 | - | 对于将提示委托到编码中的密码技能 |
+| [skills-directory/skill-codex](https://github.com/skills-directory/skill-codex) | 714 | - | 对于将提示委托到编码中的密码技能 |
 | [serenakeyitan/awesome-notebookLM-prompts](https://github.com/serenakeyitan/awesome-notebookLM-prompts) | 706 | - | 精选的组合是来自真正的创意地下的最强大的NotebookLM幻灯片提示.你去的人工智能动力资源:P |
 | [xianyu110/awesome-nanobananapro-prompts](https://github.com/xianyu110/awesome-nanobananapro-prompts) | 656 | HTML | 纳米香 Pro 全网最全提示词整理 |
 | [ZeroLu/awesome-gemini-ai](https://github.com/ZeroLu/awesome-gemini-ai) | 607 | - | 绝对的精彩双子提示,使用案例和例子.由X (Twitter),Reddit和顶级提示工程师编辑.包括使用Google Gemini 1.5 ... |
@@ -258,29 +258,29 @@
 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 37,522 | JavaScript | 工具Jet是工具Jet AI的开源基础 - - 构建内部工具,仪表板,商业应用程序,工作流程和人工智能代理的AI原生平台 |
 | [PostHog/posthog](https://github.com/PostHog/posthog) | 31,827 | Python |  PostHog是一个成功产品的全合开发平台.我们提供产品分析,网络分析,会议重播,错误跟踪,功能标志,实验,调查,数据仓库,CDP和AI产... |
 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 27,067 | TypeScript | 编码代理的Chrome DevTools |
-| [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) | 22,459 | JavaScript | 对于TÂCHES的Claude Code,一个轻量级而强大的超级提示,文本工程和基于规格的开发系统. |
-| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 21,953 | TypeScript | 一个跨平台桌面所有在一个助理工具,用于克劳德代码,Codex,OpenCode & Gemini CLI. |
+| [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) | 22,462 | JavaScript | 对于TÂCHES的Claude Code,一个轻量级而强大的超级提示,文本工程和基于规格的开发系统. |
+| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 21,956 | TypeScript | 一个跨平台桌面所有在一个助理工具,用于克劳德代码,Codex,OpenCode & Gemini CLI. |
 | [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) | 21,889 | Python | 官方Python SDK用于模拟文本协议服务器和客户端 |
-| [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) | 18,785 | Dockerfile | 自主托管指南.了解本地托管 (在本地和私人网服务器) 和管理软件应用程序的全部信息.包括云,LLM,WireGuard,自动化,家庭助理和网... |
+| [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) | 18,786 | Dockerfile | 自主托管指南.了解本地托管 (在本地和私人网服务器) 和管理软件应用程序的全部信息.包括云,LLM,WireGuard,自动化,家庭助理和网... |
 | [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | 16,046 | TypeScript | 基洛是全合一的工程平台. 通过最受欢迎的开源编码代理构建,运输和更快地代. |
 | [plandex-ai/plandex](https://github.com/plandex-ai/plandex) | 15,043 | Go | 专为大型项目和现实世界任务设计. |
 | [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | 14,924 | Python | 设计的项目集,旨在帮助开发人员快速开始使用Claude API构建可部署的应用程序 |
-| [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 12,796 | Python | 综合集的代理技能,用于文本工程,多代理架构和生产代理系统.在构建,优化或调试需要有效的文本管理的代理系统时使用. |
+| [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 12,797 | Python | 综合集的代理技能,用于文本工程,多代理架构和生产代理系统.在构建,优化或调试需要有效的文本管理的代理系统时使用. |
 | [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) | 11,713 | TypeScript | 官方TypeScript SDK用于模型语境协议服务器和客户端 |
 | [tobi/qmd](https://github.com/tobi/qmd) | 11,172 | TypeScript | 追踪当前的Sota方法,同时是全局的 |
 | [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) | 11,123 | TypeScript | 分析CLI使用CLODECode/Codex的CLI工具从本地JSONL文件中. |
 | [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) | 10,064 | JavaScript | UAParser.js - 用户代理检测的必不可少的Web开发工具.检测浏览器,操作系统,设备,机器人,应用程序,AI爬虫等.在浏览器 (客... |
-| [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) | 9,495 | Go | 视频翻译和翻译工具由LLM支持.视频翻译器提供100种语言翻译和一个点击的全过程部署.视频翻译输出为YouTube,TikTok等平台优化.... |
+| [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) | 9,496 | Go | 视频翻译和翻译工具由LLM支持.视频翻译器提供100种语言翻译和一个点击的全过程部署.视频翻译输出为YouTube,TikTok等平台优化.... |
 | [github/copilot-cli](https://github.com/github/copilot-cli) | 8,859 | Shell | 基塔哈 Copilot CLI 将Copilot编码代理的功率直接传递到您的终端. |
 | [sweepai/sweep](https://github.com/sweepai/sweep) | 7,643 | Jupyter Notebook | 扫描:为JetBrains的人工智能编码助理 |
-| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 6,953 | TypeScript | 吉特尼克斯:零服务器代码智能引擎 - GitNexus是一个客户端知识图表创建器,完全运行在浏览器中.放入GitHub备忘录或ZIP文件,并... |
+| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 6,957 | TypeScript | 吉特尼克斯:零服务器代码智能引擎 - GitNexus是一个客户端知识图表创建器,完全运行在浏览器中.放入GitHub备忘录或ZIP文件,并... |
 | [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) | 6,385 | HTML | 一个多语言文档智能框架,具有Rust核心. 从PDF,Office文档,图像和76+格式中提取文本,元数据和结构信息.可用于Rust,Pyt... |
 | [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) | 5,649 | Python | 克拉维斯AI (YC X25):允许AI代理在任何规模可靠地使用工具的MCP集成平台 |
 | [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright) | 5,262 | TypeScript | 剧作家模型语境协议服务器 - 在克劳德桌面,克莱恩,库尔索IDE等领域自动化浏览器和API的工具 |
 | [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) | 4,725 | Python | ACI.dev是开源工具调用平台,通过直接函数调用或统一MCP服务器将600多个工具连接到任何代理 IDE或定制AI代理中. |
 | [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) | 4,224 | TypeScript |  优美的高度可定制的状态线,为Cloed Code CLI提供电源支持,主题等. |
 | [Pimzino/spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp) | 3,931 | TypeScript | 提供结构化基于规范的开发工作流工具,用于人工智能辅助软件开发,具有实时网络仪表板和VSCode扩展,可以直接监测和管理您的项目进展. |
-| [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) | 3,630 | JavaScript | 45条技巧,从基本到高级的Cloade Code中获取最大的获益 - 包括自定义状态线脚本,将系统提示切割成两半,使用双子CLI作为Cloa... |
+| [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) | 3,634 | JavaScript | 45条技巧,从基本到高级的Cloade Code中获取最大的获益 - 包括自定义状态线脚本,将系统提示切割成两半,使用双子CLI作为Cloa... |
 | [opensumi/core](https://github.com/opensumi/core) | 3,605 | TypeScript | 框架可以帮助您快速构建AI原生IDE产品.MCP客户端,通过MCP服务器支持模型语境协议 (MCP) 工具. |
 | [jamesmurdza/awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools) | 3,584 | - | 基于人工智能开发工具的编辑列表. |
 | [smallcloudai/refact](https://github.com/smallcloudai/refact) | 3,505 | Rust | 处理工程任务的AI代理:与开发人员集成工具,计划,执行和反复执行,直到实现成功结果. |
@@ -288,8 +288,8 @@
 | [entireio/cli](https://github.com/entireio/cli) | 3,199 | Go | 整体是一个新的开发者平台, 连接到你的 Git 工作流程, 捕捉 AI 代理的会议, 每次推进, 统一你的代码与它的背景和推理. |
 | [hacksysteam/HackSysExtremeVulnerableDriver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver) | 2,953 | C | 黑客系统极端脆弱驱动程序 (HEVD) - Windows和Linux |
 | [cirosantilli/china-dictatorship](https://github.com/cirosantilli/china-dictatorship) | 2,866 | HTML | 反中共政治宣传库. 反中国政府宣传. 住在中国真名用户的网友请别给星星,否则你会被警察请喝茶.常见问答集,新闻集和饭店和音乐建议. |
-| [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow) | 2,725 | Go | 多模型协作开发工具集 - 基于克劳德代码CLI,整合Code/Gemini后端能力,提供智能路由、代码审查、Git 工具等 17+个命令 |
-| [superset-sh/superset](https://github.com/superset-sh/superset) | 2,571 | TypeScript | 智能化代理时代的IDE - 在机器上运行一个克劳德代码,Codex等的军队 |
+| [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow) | 2,726 | Go | 多模型协作开发工具集 - 基于克劳德代码CLI,整合Code/Gemini后端能力,提供智能路由、代码审查、Git 工具等 17+个命令 |
+| [superset-sh/superset](https://github.com/superset-sh/superset) | 2,574 | TypeScript | 智能化代理时代的IDE - 在机器上运行一个克劳德代码,Codex等的军队 |
 | [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) | 2,510 | TypeScript | 单一的中心,可以找到Claude技能,代理,命令,,插件和市场集,扩展Claude Code,Claude Desktop,代理SDK和Op... |
 
 ---
@@ -300,9 +300,9 @@
 |------|---:|:----:|------|
 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 441,494 | - | 😎关于各种有趣的主题的精彩列表 |
 | [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) | 66,263 | JavaScript |  33个JavaScript概念,每个开发人员都应该知道. |
-| [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 7,156 | - | 通过克劳德的前端技能在网上创建漂亮的幻灯片 |
+| [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 7,157 | - | 通过克劳德的前端技能在网上创建漂亮的幻灯片 |
 | [TommyLemon/APIAuto](https://github.com/TommyLemon/APIAuto) | 2,172 | JavaScript |  敏捷开发最强大易用接口工具,机器学习零代码测试与AI 问答、生成代码与静态检查、生成文档与光标悬浮注释,讯、华为、SHEIN、传音、工行等... |
-| [InsForge/InsForge](https://github.com/InsForge/InsForge) | 1,564 | TypeScript | 后端是为人工开发而建的,人工智能原生的Supabase替代. |
+| [InsForge/InsForge](https://github.com/InsForge/InsForge) | 1,565 | TypeScript | 后端是为人工开发而建的,人工智能原生的Supabase替代. |
 | [rapid7/hackazon](https://github.com/rapid7/hackazon) | 1,019 | HTML | 现代易受攻击的网络应用程序 |
 | [stamparm/DSVW](https://github.com/stamparm/DSVW) | 857 | Python | 的小脆弱网络 |
 | [AgnosticUI/agnosticui](https://github.com/AgnosticUI/agnosticui) | 773 | TypeScript | AgnosticUI Local (v2) 是基于CLI的UI组件库,直接将组件复制到您的项目中.与AI工具,代理驱动的UI和即时准备的工作... |
@@ -457,7 +457,7 @@
 
 | 项目 | ⭐ | 语言 | 描述 |
 |------|---:|:----:|------|
-| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 35,752 | Python | 提供设计智能技术,用于构建专业的UI/UX多个平台 |
+| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 35,754 | Python | 提供设计智能技术,用于构建专业的UI/UX多个平台 |
 | [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) | 29,886 | - | ️ 收集一些技巧,帮助你提高你的CSS技能 |
 | [Dammyjay93/interface-design](https://github.com/Dammyjay93/interface-design) | 3,647 | Shell | 设计工程为克劳德代码, 工艺,内存和执行一致的UI. |
 | [inkline/inkline](https://github.com/inkline/inkline) | 1,439 | TypeScript | 简单的用户界面组件库为您提供了高质量的,可访问的,可定制的Vue.js 3设计系统的开发者友好的基础. |
@@ -465,7 +465,7 @@
 | [gridaco/assistant](https://github.com/gridaco/assistant) | 611 | TypeScript | 将Figma设计和开发管道提升到下一个层次 - - 设计到代码,设计中内容管理,组件管理,工具以更快的设计 |
 | [ancoleman/ai-design-components](https://github.com/ancoleman/ai-design-components) | 296 | Python | 综合 UI/UX和后端组件设计技能,用于人工智能辅助开发,与Claude |
 | [zetaalphavector/inpars](https://github.com/zetaalphavector/InPars) | 199 | Python | Inquisitive Parrots for Search |
-| [carmahhawwari/ui-design-brain](https://github.com/carmahhawwari/ui-design-brain) | 138 | - | 提供AI代理人真正的UI组件知识的Cursor技能, 为60多个接口组件提供最佳实践,布局模式和设计系统公约, 使其生成生产级UI而不是通用... |
+| [carmahhawwari/ui-design-brain](https://github.com/carmahhawwari/ui-design-brain) | 139 | - | 提供AI代理人真正的UI组件知识的Cursor技能, 为60多个接口组件提供最佳实践,布局模式和设计系统公约, 使其生成生产级UI而不是通用... |
 | [namyakhan/javascriptProjects](https://github.com/namyakhan/javascriptProjects) | 47 | JavaScript | 通过使用HTML,CSS和JS来构建这些令人惊叹的项目来提高你的JavaScript技能. |
 | [AllenAI2014/pencil-ui-design](https://github.com/AllenAI2014/pencil-ui-design) | 47 | - | 笔MCP 工业级UI 设计技能 组件库 |
 | [MarlBurroW/pinchchat](https://github.com/MarlBurroW/pinchchat) | 37 | TypeScript | A sleek, dark-themed webchat UI for OpenClaw 🦞 |
@@ -480,7 +480,7 @@
 
 | 项目 | ⭐ | 语言 | 描述 |
 |------|---:|:----:|------|
-| [RKiding/Awesome-finance-skills](https://github.com/RKiding/Awesome-finance-skills) | 146 | Python | 一系列免费的金融经理技能免费和简单的开始. |
+| [RKiding/Awesome-finance-skills](https://github.com/RKiding/Awesome-finance-skills) | 150 | Python | 一系列免费的金融经理技能免费和简单的开始. |
 | [xpaysh/awesome-x402](https://github.com/xpaysh/awesome-x402) | 129 | - |  编制的x402资源列表:HTTP 402 付款 对于区块链支付,加密微支付,AI代理,API货币化,需要的协议.包括SDK (TypeSc... |
 | [BlockRunAI/awesome-finance-mcp](https://github.com/BlockRunAI/awesome-finance-mcp) | 14 | - | 针对AI金融代理商的MCP服务器的整理列表 |
 
@@ -493,14 +493,14 @@
 | [huggingface/skills](https://github.com/huggingface/skills) | 7,597 | Python |  |
 | [vudovn/antigravity-kit](https://github.com/vudovn/antigravity-kit) | 5,445 | TypeScript |  |
 | [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) | 3,634 | Python |  |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | 3,311 | TypeScript | 专业指南 |
+| [openclaw/clawhub](https://github.com/openclaw/clawhub) | 3,312 | TypeScript | 专业指南 |
 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | 2,073 | TypeScript |  |
 | [sahil280114/codealpaca](https://github.com/sahil280114/codealpaca) | 1,505 | Python |  |
 | [touchlab/DroidconKotlin](https://github.com/touchlab/DroidconKotlin) | 1,136 | Kotlin | 对于Droidcon活动的Kotlin多平台应用 |
 | [PharMolix/OpenBioMed](https://github.com/PharMolix/OpenBioMed) | 975 | Python |  |
 | [xionghonglin/DoctorGLM](https://github.com/xionghonglin/DoctorGLM) | 830 | Python | 基于ChatGLM-6B的中文问诊模型 |
 | [shikras/shikra](https://github.com/shikras/shikra) | 805 | Python |  |
-| [white0dew/XiaohongshuSkills](https://github.com/white0dew/XiaohongshuSkills) | 763 | Python | 支持小红书自动发布"",自动评论"",自动检索的技能"",支持OpenClaw"",Codex"",CC等 |
+| [white0dew/XiaohongshuSkills](https://github.com/white0dew/XiaohongshuSkills) | 768 | Python | 支持小红书自动发布"",自动评论"",自动检索的技能"",支持OpenClaw"",Codex"",CC等 |
 | [praetorian-inc/DVRF](https://github.com/praetorian-inc/DVRF) | 709 | HTML | 的脆弱路由器固件项目 |
 | [spylang/spy](https://github.com/spylang/spy) | 675 | Python | 语文 |
 | [vercel-labs/next-skills](https://github.com/vercel-labs/next-skills) | 664 | - |  |
@@ -509,7 +509,7 @@
 | [mattgodbolt/jsbeeb](https://github.com/mattgodbolt/jsbeeb) | 383 | JavaScript | 简体中文版 BBC微模拟器 |
 | [kinopeee/windsurf-antigravity-rules](https://github.com/kinopeee/windsurf-antigravity-rules) | 367 | - |  |
 | [harperreed/dotfiles](https://github.com/harperreed/dotfiles) | 297 | Vim Script | 据悉,在此之前, |
-| [sundial-org/awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills) | 274 | Python | 顶级的OpenClaw技能,最受欢迎和最有用的技能. |
+| [sundial-org/awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills) | 275 | Python | 顶级的OpenClaw技能,最受欢迎和最有用的技能. |
 | [ezelikman/STaR](https://github.com/ezelikman/STaR) | 220 | Python | 标准:使用推理 (NeurIPS 2022) |
 | [alnahian2003/learn-laravel](https://github.com/alnahian2003/learn-laravel) | 159 | - | 准备升级Laravel技能? 入学习资源,教程,电子书,博客,课程,并遵循最好的!不管你的技能水平如何,每个人都有东西. |
 | [google-deepmind/language_to_reward_2023](https://github.com/google-deepmind/language_to_reward_2023) | 158 | Python |  |
@@ -554,4 +554,4 @@ git clone https://github.com/lllray/awesome-skills.git
 
 ---
 
-<p align="center"><sub>✨ 自动整理 · 2026-03-01 17:16:34</sub></p>
+<p align="center"><sub>✨ 自动整理 · 2026-03-01 17:27:08</sub></p>
