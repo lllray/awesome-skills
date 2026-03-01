@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<script>
+(function() {
+  var lang = (navigator.language || navigator.userLanguage || '').toLowerCase();
+  var base = location.pathname.replace(/\/index\.html$/, '').replace(/\/$/, '');
+  var repo = location.href.match(/github\.io\/([^/]+)/);
+  var ghBase = repo ? 'https://github.com/' + document.title.split(' ')[0] + '/blob/main/' : '';
+  if (lang.startsWith('zh')) {
+    location.href = ghBase + 'README_ZH.md';
+  } else {
+    location.href = ghBase + 'README_EN.md';
+  }
+})();
+</script>
+<noscript>
+  <meta http-equiv="refresh" content="0; url=README_EN.md">
+</noscript>
+</head>
+<body>
+  <p>Redirecting... <a href="README_EN.md">English</a> | <a href="README_ZH.md">中文</a></p>
+</body>
+</html>
