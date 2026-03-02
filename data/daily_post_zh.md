@@ -1,11 +1,11 @@
 # 每日报告 2026-03-02
 - 仓库: Awesome Skills
-- 今日新增: 0 | 总数: 2924 | Stars: 7,719,286
+- 今日新增: 23 | 总数: 2947 | Stars: 7,765,258
 - 链接: https://github.com/lllray/awesome-skills
 
 ## 热门 Top 5
-1. [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) +517⭐ — The agent harness performance optimization system. Skills, instincts, memory, se
-2. [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) +448⭐ — The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorize
-3. [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) +423⭐ — OpenSandbox is a general-purpose sandbox platform for AI applications, offering 
-4. [obra/superpowers](https://github.com/obra/superpowers) +370⭐ — An agentic skills framework & software development methodology that works.
-5. [anthropics/skills](https://github.com/anthropics/skills) +311⭐ — Public repository for Agent Skills
+1. [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) +1210⭐ — The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorize
+2. [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) +1204⭐ — The agent harness performance optimization system. Skills, instincts, memory, se
+3. [obra/superpowers](https://github.com/obra/superpowers) +1138⭐ — An agentic skills framework & software development methodology that works.
+4. [anthropics/skills](https://github.com/anthropics/skills) +1001⭐ — Public repository for Agent Skills
+5. [mksglu/claude-context-mode](https://github.com/mksglu/claude-context-mode) +843⭐ — Stop losing context to large outputs.
