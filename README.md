@@ -4,7 +4,7 @@
 
 > Curated collection of AI Agent Skills — auto-collected from GitHub
 
-![Total](https://img.shields.io/badge/Total-2924-blue?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-7719k%2B-yellow?style=flat-square) ![Today](https://img.shields.io/badge/Today-2924-green?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-03-01-orange?style=flat-square)
+![Total](https://img.shields.io/badge/Total-2924-blue?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-7719k%2B-yellow?style=flat-square) ![Today](https://img.shields.io/badge/Today-0-green?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-03-02-orange?style=flat-square)
 
 ---
 
@@ -34,7 +34,7 @@
 
 ---
 
-## 🔥 Daily Trending (2026-03-01)
+## 🔥 Daily Trending (2026-03-02)
 
 | # | Project | ⭐ | 📈 Gain | Description |
 |:-:|---------|---:|-------:|-------------|
@@ -546,4 +546,4 @@ Pull requests welcome!
 
 ---
 
-<p align="center"><sub>✨ Auto-curated · 2026-03-01 22:51:32</sub></p>
+<p align="center"><sub>✨ Auto-curated · 2026-03-02 20:49:10</sub></p>
