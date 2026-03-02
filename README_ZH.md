@@ -42,20 +42,20 @@
 | 2 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 23,792 | +448 | The awesome collection of OpenClaw skills. 5,400+ ... |
 | 3 | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | 3,006 | +423 | OpenSandbox is a general-purpose sandbox platform ... |
 | 4 | [obra/superpowers](https://github.com/obra/superpowers) | 66,589 | +370 | An agentic skills framework & software development... |
-| 5 | [anthropics/skills](https://github.com/anthropics/skills) | 80,013 | +311 | Public repository for Agent Skills |
+| 5 | [anthropics/skills](https://github.com/anthropics/skills) | 80,013 | +311 | Agent Skills公共代码库。 |
 | 6 | [mksglu/claude-context-mode](https://github.com/mksglu/claude-context-mode) | 937 | +297 | Stop losing context to large outputs. |
 | 7 | [block/goose](https://github.com/block/goose) | 31,824 | +278 | an open source, extensible AI agent that goes beyo... |
 | 8 | [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) | 3,789 | +274 | Agent skill that generates rich HTML pages or slid... |
 | 9 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 17,001 | +268 | 🌊 The leading agent orchestration platform for Cla... |
 | 10 | [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) | 22,622 | +205 | A light-weight and powerful meta-prompting, contex... |
-| 11 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 72,194 | +199 | Claude Code is an agentic coding tool that lives i... |
+| 11 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 72,194 | +199 | Claude Code 是一个代理式编码工具，存在于您的终端中，理解您的代码库，并通过执行常规任务、... |
 | 12 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 7,095 | +195 | GitNexus: The Zero-Server Code Intelligence Engine... |
 | 13 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 22,085 | +189 | A cross-platform desktop All-in-One assistant tool... |
-| 14 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 113,427 | +188 | The open source coding agent. |
+| 14 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 113,427 | +188 | 开源编码代理。 |
 | 15 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 39,037 | +171 | A curated list of awesome Claude Skills, resources... |
-| 16 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 98,515 | +165 | Collection of awesome LLM apps with AI Agents and ... |
+| 16 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 98,515 | +165 | 使用OpenAI、Anthropic、Gemini及开源模型构建的AI代理与RAG技术驱动的优秀LL... |
 | 17 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 17,528 | +155 | The Ultimate Collection of 900+ Agentic Skills for... |
-| 18 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 126,723 | +150 | FULL Augment Code, Claude Code, Cluely, CodeBuddy,... |
+| 18 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 126,723 | +150 | 完整增强代码、Claude Code、Cluely、CodeBuddy、Comet、Cursor、D... |
 | 19 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 19,756 | +146 | Bash is all you need -  A nano Claude Code–like ag... |
 | 20 | [superset-sh/superset](https://github.com/superset-sh/superset) | 2,688 | +143 | IDE for the AI Agents Era - Run an army of Claude ... |
 
@@ -554,4 +554,4 @@ git clone https://github.com/lllray/awesome-skills.git
 
 ---
 
-<p align="center"><sub>✨ 自动整理 · 2026-03-02 20:54:54</sub></p>
+<p align="center"><sub>✨ 自动整理 · 2026-03-02 20:57:07</sub></p>
