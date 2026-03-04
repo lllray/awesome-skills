@@ -1,11 +1,11 @@
-# 每日报告 2026-03-03
+# 每日报告 2026-03-04
 - 仓库: Awesome Skills
-- 今日新增: 32 | 总数: 2979 | Stars: 7,800,586
+- 今日新增: 28 | 总数: 3007 | Stars: 7,841,703
 - 链接: https://github.com/lllray/awesome-skills
 
 ## 热门 Top 5
-1. [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) +1440⭐ — The agent harness performance optimization system. Skills, instincts, memory, se
-2. [anthropics/skills](https://github.com/anthropics/skills) +1187⭐ — Public repository for Agent Skills
-3. [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) +1175⭐ — The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorize
-4. [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) +1154⭐ — OpenSandbox is a general-purpose sandbox platform for AI applications, offering 
-5. [obra/superpowers](https://github.com/obra/superpowers) +1081⭐ — An agentic skills framework & software development methodology that works.
+1. [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) +1598⭐ — The agent harness performance optimization system. Skills, instincts, memory, se
+2. [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) +1569⭐ — practice made claude perfect
+3. [obra/superpowers](https://github.com/obra/superpowers) +1411⭐ — An agentic skills framework & software development methodology that works.
+4. [anthropics/skills](https://github.com/anthropics/skills) +1138⭐ — Public repository for Agent Skills
+5. [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) +1028⭐ — The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorize
