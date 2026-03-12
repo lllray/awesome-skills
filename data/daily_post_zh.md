@@ -1,11 +1,11 @@
-# 每日报告 2026-03-11
+# 每日报告 2026-03-12
 - 仓库: Awesome Skills
-- 今日新增: 21 | 总数: 3195 | Stars: 8,132,142
+- 今日新增: 33 | 总数: 3228 | Stars: 8,175,672
 - 链接: https://github.com/lllray/awesome-skills
 
 ## 热门 Top 5
-1. [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) +1487⭐ — 经纪人利用性能优化系统,技能,本能,记忆,安全,以及对克劳德代码,Codex,Cowork等领域的研究.
-2. [obra/superpowers](https://github.com/obra/superpowers) +1455⭐ — 提供一个有效的代理技能框架和软件开发方法.
-3. [anthropics/skills](https://github.com/anthropics/skills) +1385⭐ — Agent Skills公共代码库。
-4. [ParthJadhav/app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots) +1190⭐ — 使用AI创建端到端应用商店的截图
-5. [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) +1118⭐ — 5,400+技能从官方OpenClaw技能登记册中过和分类.
+1. [obra/superpowers](https://github.com/obra/superpowers) +1678⭐ — 提供一个有效的代理技能框架和软件开发方法.
+2. [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) +1528⭐ — 经纪人利用性能优化系统,技能,本能,记忆,安全,以及对克劳德代码,Codex,Cowork等领域的研究.
+3. [anthropics/skills](https://github.com/anthropics/skills) +1210⭐ — Agent Skills公共代码库。
+4. [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) +909⭐ — 5,400+技能从官方OpenClaw技能登记册中过和分类.
+5. [openai/symphony](https://github.com/openai/symphony) +676⭐ — 交响曲将项目工作转化为孤立的,自主执行运行,
