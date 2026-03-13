@@ -4,60 +4,63 @@
 </linearGradient></defs>
 <rect width="900" height="420" rx="12" fill="url(#tbg)"/>
 <text x="450.0" y="28" text-anchor="middle" fill="#e6edf3" font-size="16" font-weight="bold">Awesome Skills 收录趋势</text>
-<text x="450.0" y="46" text-anchor="middle" fill="#8b949e" font-size="12">总收录 3228 · 累计新增 3228 · Stars 8,175,672</text>
+<text x="450.0" y="46" text-anchor="middle" fill="#8b949e" font-size="12">总收录 3264 · 累计新增 3264 · Stars 8,244,579</text>
 <text x="62" y="340.0" text-anchor="end" fill="#8b949e" font-size="11" dominant-baseline="middle">0</text>
 <line x1="70" y1="340.0" x2="870" y2="340.0" stroke="#21262d" stroke-dasharray="4 4"/>
-<text x="62" y="268.8" text-anchor="end" fill="#8b949e" font-size="11" dominant-baseline="middle">807</text>
+<text x="62" y="268.8" text-anchor="end" fill="#8b949e" font-size="11" dominant-baseline="middle">816</text>
 <line x1="70" y1="268.8" x2="870" y2="268.8" stroke="#21262d" stroke-dasharray="4 4"/>
-<text x="62" y="197.5" text-anchor="end" fill="#8b949e" font-size="11" dominant-baseline="middle">1614</text>
+<text x="62" y="197.5" text-anchor="end" fill="#8b949e" font-size="11" dominant-baseline="middle">1632</text>
 <line x1="70" y1="197.5" x2="870" y2="197.5" stroke="#21262d" stroke-dasharray="4 4"/>
-<text x="62" y="126.2" text-anchor="end" fill="#8b949e" font-size="11" dominant-baseline="middle">2421</text>
+<text x="62" y="126.2" text-anchor="end" fill="#8b949e" font-size="11" dominant-baseline="middle">2448</text>
 <line x1="70" y1="126.2" x2="870" y2="126.2" stroke="#21262d" stroke-dasharray="4 4"/>
-<text x="62" y="55.0" text-anchor="end" fill="#8b949e" font-size="11" dominant-baseline="middle">3228</text>
+<text x="62" y="55.0" text-anchor="end" fill="#8b949e" font-size="11" dominant-baseline="middle">3264</text>
 <line x1="70" y1="55.0" x2="870" y2="55.0" stroke="#21262d" stroke-dasharray="4 4"/>
 
 <line x1="70" y1="55" x2="70" y2="340" stroke="#30363d"/>
 <line x1="70" y1="340" x2="870" y2="340" stroke="#30363d"/>
-<path d="M70.0,81.8 L142.7,79.8 L215.5,77.0 L288.2,74.5 L360.9,72.5 L433.6,69.2 L506.4,66.4 L579.1,64.3 L651.8,61.8 L724.5,59.8 L797.3,57.9 L870.0,55.0 L870.0,340 L70.0,340 Z" fill="#58a6ff" opacity="0.12"/>
-<polyline points="70.0,81.8 142.7,79.8 215.5,77.0 288.2,74.5 360.9,72.5 433.6,69.2 506.4,66.4 579.1,64.3 651.8,61.8 724.5,59.8 797.3,57.9 870.0,55.0" fill="none" stroke="#58a6ff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="70.0" cy="81.8" r="3" fill="#58a6ff" stroke="#0d1117" stroke-width="1.5"/>
-<circle cx="142.7" cy="79.8" r="3" fill="#58a6ff" stroke="#0d1117" stroke-width="1.5"/>
-<circle cx="215.5" cy="77.0" r="3" fill="#58a6ff" stroke="#0d1117" stroke-width="1.5"/>
-<circle cx="288.2" cy="74.5" r="3" fill="#58a6ff" stroke="#0d1117" stroke-width="1.5"/>
-<circle cx="360.9" cy="72.5" r="3" fill="#58a6ff" stroke="#0d1117" stroke-width="1.5"/>
-<circle cx="433.6" cy="69.2" r="3" fill="#58a6ff" stroke="#0d1117" stroke-width="1.5"/>
-<circle cx="506.4" cy="66.4" r="3" fill="#58a6ff" stroke="#0d1117" stroke-width="1.5"/>
-<circle cx="579.1" cy="64.3" r="3" fill="#58a6ff" stroke="#0d1117" stroke-width="1.5"/>
-<circle cx="651.8" cy="61.8" r="3" fill="#58a6ff" stroke="#0d1117" stroke-width="1.5"/>
-<circle cx="724.5" cy="59.8" r="3" fill="#58a6ff" stroke="#0d1117" stroke-width="1.5"/>
-<circle cx="797.3" cy="57.9" r="3" fill="#58a6ff" stroke="#0d1117" stroke-width="1.5"/>
+<path d="M70.0,84.7 L136.7,82.7 L203.3,79.9 L270.0,77.4 L336.7,75.4 L403.3,72.2 L470.0,69.4 L536.7,67.3 L603.3,64.9 L670.0,62.9 L736.7,61.0 L803.3,58.1 L870.0,55.0 L870.0,340 L70.0,340 Z" fill="#58a6ff" opacity="0.12"/>
+<polyline points="70.0,84.7 136.7,82.7 203.3,79.9 270.0,77.4 336.7,75.4 403.3,72.2 470.0,69.4 536.7,67.3 603.3,64.9 670.0,62.9 736.7,61.0 803.3,58.1 870.0,55.0" fill="none" stroke="#58a6ff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="70.0" cy="84.7" r="3" fill="#58a6ff" stroke="#0d1117" stroke-width="1.5"/>
+<circle cx="136.7" cy="82.7" r="3" fill="#58a6ff" stroke="#0d1117" stroke-width="1.5"/>
+<circle cx="203.3" cy="79.9" r="3" fill="#58a6ff" stroke="#0d1117" stroke-width="1.5"/>
+<circle cx="270.0" cy="77.4" r="3" fill="#58a6ff" stroke="#0d1117" stroke-width="1.5"/>
+<circle cx="336.7" cy="75.4" r="3" fill="#58a6ff" stroke="#0d1117" stroke-width="1.5"/>
+<circle cx="403.3" cy="72.2" r="3" fill="#58a6ff" stroke="#0d1117" stroke-width="1.5"/>
+<circle cx="470.0" cy="69.4" r="3" fill="#58a6ff" stroke="#0d1117" stroke-width="1.5"/>
+<circle cx="536.7" cy="67.3" r="3" fill="#58a6ff" stroke="#0d1117" stroke-width="1.5"/>
+<circle cx="603.3" cy="64.9" r="3" fill="#58a6ff" stroke="#0d1117" stroke-width="1.5"/>
+<circle cx="670.0" cy="62.9" r="3" fill="#58a6ff" stroke="#0d1117" stroke-width="1.5"/>
+<circle cx="736.7" cy="61.0" r="3" fill="#58a6ff" stroke="#0d1117" stroke-width="1.5"/>
+<circle cx="803.3" cy="58.1" r="3" fill="#58a6ff" stroke="#0d1117" stroke-width="1.5"/>
 <circle cx="870.0" cy="55.0" r="3" fill="#58a6ff" stroke="#0d1117" stroke-width="1.5"/>
-<path d="M70.0,55.0 L142.7,337.8 L215.5,336.9 L288.2,337.3 L360.9,337.8 L433.6,336.4 L506.4,336.9 L579.1,337.7 L651.8,337.3 L724.5,337.8 L797.3,338.0 L870.0,336.8 L870.0,340 L70.0,340 Z" fill="#3fb950" opacity="0.12"/>
-<polyline points="70.0,55.0 142.7,337.8 215.5,336.9 288.2,337.3 360.9,337.8 433.6,336.4 506.4,336.9 579.1,337.7 651.8,337.3 724.5,337.8 797.3,338.0 870.0,336.8" fill="none" stroke="#3fb950" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M70.0,55.0 L136.7,337.8 L203.3,336.9 L270.0,337.3 L336.7,337.8 L403.3,336.4 L470.0,336.9 L536.7,337.7 L603.3,337.3 L670.0,337.8 L736.7,338.0 L803.3,336.8 L870.0,336.5 L870.0,340 L70.0,340 Z" fill="#3fb950" opacity="0.12"/>
+<polyline points="70.0,55.0 136.7,337.8 203.3,336.9 270.0,337.3 336.7,337.8 403.3,336.4 470.0,336.9 536.7,337.7 603.3,337.3 670.0,337.8 736.7,338.0 803.3,336.8 870.0,336.5" fill="none" stroke="#3fb950" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
 <circle cx="70.0" cy="55.0" r="3" fill="#3fb950" stroke="#0d1117" stroke-width="1.5"/>
-<circle cx="142.7" cy="337.8" r="3" fill="#3fb950" stroke="#0d1117" stroke-width="1.5"/>
-<circle cx="215.5" cy="336.9" r="3" fill="#3fb950" stroke="#0d1117" stroke-width="1.5"/>
-<circle cx="288.2" cy="337.3" r="3" fill="#3fb950" stroke="#0d1117" stroke-width="1.5"/>
-<circle cx="360.9" cy="337.8" r="3" fill="#3fb950" stroke="#0d1117" stroke-width="1.5"/>
-<circle cx="433.6" cy="336.4" r="3" fill="#3fb950" stroke="#0d1117" stroke-width="1.5"/>
-<circle cx="506.4" cy="336.9" r="3" fill="#3fb950" stroke="#0d1117" stroke-width="1.5"/>
-<circle cx="579.1" cy="337.7" r="3" fill="#3fb950" stroke="#0d1117" stroke-width="1.5"/>
-<circle cx="651.8" cy="337.3" r="3" fill="#3fb950" stroke="#0d1117" stroke-width="1.5"/>
-<circle cx="724.5" cy="337.8" r="3" fill="#3fb950" stroke="#0d1117" stroke-width="1.5"/>
-<circle cx="797.3" cy="338.0" r="3" fill="#3fb950" stroke="#0d1117" stroke-width="1.5"/>
-<circle cx="870.0" cy="336.8" r="3" fill="#3fb950" stroke="#0d1117" stroke-width="1.5"/>
+<circle cx="136.7" cy="337.8" r="3" fill="#3fb950" stroke="#0d1117" stroke-width="1.5"/>
+<circle cx="203.3" cy="336.9" r="3" fill="#3fb950" stroke="#0d1117" stroke-width="1.5"/>
+<circle cx="270.0" cy="337.3" r="3" fill="#3fb950" stroke="#0d1117" stroke-width="1.5"/>
+<circle cx="336.7" cy="337.8" r="3" fill="#3fb950" stroke="#0d1117" stroke-width="1.5"/>
+<circle cx="403.3" cy="336.4" r="3" fill="#3fb950" stroke="#0d1117" stroke-width="1.5"/>
+<circle cx="470.0" cy="336.9" r="3" fill="#3fb950" stroke="#0d1117" stroke-width="1.5"/>
+<circle cx="536.7" cy="337.7" r="3" fill="#3fb950" stroke="#0d1117" stroke-width="1.5"/>
+<circle cx="603.3" cy="337.3" r="3" fill="#3fb950" stroke="#0d1117" stroke-width="1.5"/>
+<circle cx="670.0" cy="337.8" r="3" fill="#3fb950" stroke="#0d1117" stroke-width="1.5"/>
+<circle cx="736.7" cy="338.0" r="3" fill="#3fb950" stroke="#0d1117" stroke-width="1.5"/>
+<circle cx="803.3" cy="336.8" r="3" fill="#3fb950" stroke="#0d1117" stroke-width="1.5"/>
+<circle cx="870.0" cy="336.5" r="3" fill="#3fb950" stroke="#0d1117" stroke-width="1.5"/>
 <text x="70.0" y="390" text-anchor="middle" fill="#8b949e" font-size="11">03-01</text>
-<text x="142.7" y="390" text-anchor="middle" fill="#8b949e" font-size="11">03-02</text>
-<text x="215.5" y="390" text-anchor="middle" fill="#8b949e" font-size="11">03-03</text>
-<text x="288.2" y="390" text-anchor="middle" fill="#8b949e" font-size="11">03-04</text>
-<text x="360.9" y="390" text-anchor="middle" fill="#8b949e" font-size="11">03-05</text>
-<text x="433.6" y="390" text-anchor="middle" fill="#8b949e" font-size="11">03-06</text>
-<text x="506.4" y="390" text-anchor="middle" fill="#8b949e" font-size="11">03-07</text>
-<text x="579.1" y="390" text-anchor="middle" fill="#8b949e" font-size="11">03-08</text>
-<text x="651.8" y="390" text-anchor="middle" fill="#8b949e" font-size="11">03-09</text>
-<text x="724.5" y="390" text-anchor="middle" fill="#8b949e" font-size="11">03-10</text>
-<text x="797.3" y="390" text-anchor="middle" fill="#8b949e" font-size="11">03-11</text>
-<text x="870.0" y="390" text-anchor="middle" fill="#8b949e" font-size="11">03-12</text>
+<text x="136.7" y="390" text-anchor="middle" fill="#8b949e" font-size="11">03-02</text>
+<text x="203.3" y="390" text-anchor="middle" fill="#8b949e" font-size="11">03-03</text>
+<text x="270.0" y="390" text-anchor="middle" fill="#8b949e" font-size="11">03-04</text>
+<text x="336.7" y="390" text-anchor="middle" fill="#8b949e" font-size="11">03-05</text>
+<text x="403.3" y="390" text-anchor="middle" fill="#8b949e" font-size="11">03-06</text>
+<text x="470.0" y="390" text-anchor="middle" fill="#8b949e" font-size="11">03-07</text>
+<text x="536.7" y="390" text-anchor="middle" fill="#8b949e" font-size="11">03-08</text>
+<text x="603.3" y="390" text-anchor="middle" fill="#8b949e" font-size="11">03-09</text>
+<text x="670.0" y="390" text-anchor="middle" fill="#8b949e" font-size="11">03-10</text>
+<text x="736.7" y="390" text-anchor="middle" fill="#8b949e" font-size="11">03-11</text>
+<text x="803.3" y="390" text-anchor="middle" fill="#8b949e" font-size="11">03-12</text>
+<text x="870.0" y="390" text-anchor="middle" fill="#8b949e" font-size="11">03-13</text>
 
 <rect x="640" y="402" width="12" height="12" rx="2" fill="#58a6ff"/>
 <text x="656" y="412" fill="#8b949e" font-size="11">总数</text>

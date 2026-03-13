@@ -1,11 +1,11 @@
-# Daily Report 2026-03-12
+# Daily Report 2026-03-13
 - Repo: Awesome Skills
-- New: 33 | Total: 3228 | Stars: 8,175,672
+- New: 36 | Total: 3264 | Stars: 8,244,579
 - Link: https://github.com/lllray/awesome-skills
 
 ## Top 5 Trending
-1. [obra/superpowers](https://github.com/obra/superpowers) +1678⭐ — An agentic skills framework & software development methodology that works.
-2. [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) +1528⭐ — The agent harness performance optimization system. Skills, instincts, memory, se
-3. [anthropics/skills](https://github.com/anthropics/skills) +1210⭐ — Public repository for Agent Skills
-4. [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) +909⭐ — The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorize
-5. [openai/symphony](https://github.com/openai/symphony) +676⭐ — Symphony turns project work into isolated, autonomous implementation runs, allow
+1. [obra/superpowers](https://github.com/obra/superpowers) +2063⭐ — An agentic skills framework & software development methodology that works.
+2. [volcengine/OpenViking](https://github.com/volcengine/OpenViking) +2042⭐ — OpenViking is an open-source context database designed specifically for AI Agent
+3. [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) +1435⭐ — The agent harness performance optimization system. Skills, instincts, memory, se
+4. [anthropics/skills](https://github.com/anthropics/skills) +1063⭐ — Public repository for Agent Skills
+5. [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) +817⭐ — A light-weight and powerful meta-prompting, context engineering and spec-driven 
