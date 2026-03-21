@@ -1,11 +1,11 @@
-# 每日报告 2026-03-20
+# 每日报告 2026-03-21
 - 仓库: Awesome Skills
-- 今日新增: 24 | 总数: 3429 | Stars: 8,644,259
+- 今日新增: 18 | 总数: 3447 | Stars: 8,686,092
 - 链接: https://github.com/lllray/awesome-skills
 
 ## 热门 Top 5
-1. [garrytan/gstack](https://github.com/garrytan/gstack) +4812⭐ — Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, 
-2. [obra/superpowers](https://github.com/obra/superpowers) +2753⭐ — An agentic skills framework & software development methodology that works.
-3. [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) +2546⭐ — The agent harness performance optimization system. Skills, instincts, memory, se
-4. [mattpocock/skills](https://github.com/mattpocock/skills) +1984⭐ — My personal directory of skills, straight from my .claude directory.
-5. [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) +1439⭐ — A light-weight and powerful meta-prompting, context engineering and spec-driven 
+1. [garrytan/gstack](https://github.com/garrytan/gstack) +2933⭐ — Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, 
+2. [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) +2831⭐ — The agent harness performance optimization system. Skills, instincts, memory, se
+3. [obra/superpowers](https://github.com/obra/superpowers) +1717⭐ — An agentic skills framework & software development methodology that works.
+4. [mattpocock/skills](https://github.com/mattpocock/skills) +1258⭐ — My personal directory of skills, straight from my .claude directory.
+5. [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) +945⭐ — A Claude Code plugin that shows what's happening - context usage, active tools, 
