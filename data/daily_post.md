@@ -1,11 +1,11 @@
-# Daily Report 2026-03-21
+# Daily Report 2026-03-22
 - Repo: Awesome Skills
-- New: 18 | Total: 3447 | Stars: 8,686,092
+- New: 23 | Total: 3470 | Stars: 8,743,140
 - Link: https://github.com/lllray/awesome-skills
 
 ## Top 5 Trending
-1. [garrytan/gstack](https://github.com/garrytan/gstack) +2933⭐ — Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, 
-2. [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) +2831⭐ — The agent harness performance optimization system. Skills, instincts, memory, se
-3. [obra/superpowers](https://github.com/obra/superpowers) +1717⭐ — An agentic skills framework & software development methodology that works.
-4. [mattpocock/skills](https://github.com/mattpocock/skills) +1258⭐ — My personal directory of skills, straight from my .claude directory.
-5. [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) +945⭐ — A Claude Code plugin that shows what's happening - context usage, active tools, 
+1. [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) +3666⭐ — The agent harness performance optimization system. Skills, instincts, memory, se
+2. [garrytan/gstack](https://github.com/garrytan/gstack) +2627⭐ — Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, 
+3. [obra/superpowers](https://github.com/obra/superpowers) +1791⭐ — An agentic skills framework & software development methodology that works.
+4. [bytedance/deer-flow](https://github.com/bytedance/deer-flow) +1672⭐ — An open-source SuperAgent harness that researches, codes, and creates. With the 
+5. [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) +1089⭐ — Claude Code skills that turn any codebase into an interactive knowledge graph yo
