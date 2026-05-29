@@ -4,7 +4,7 @@
 
 > AI Agent Skills 精选集合 —— 自动收录 GitHub 上优质 Skills、Rules、MCP Servers、Prompts 等资源
 
-![收录](https://img.shields.io/badge/%E6%94%B6%E5%BD%95-4468-blue?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-13553k%2B-yellow?style=flat-square) ![今日新增](https://img.shields.io/badge/%E4%BB%8A%E6%97%A5%E6%96%B0%E5%A2%9E-18-green?style=flat-square) ![更新](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0-2026-05-28-orange?style=flat-square)
+![收录](https://img.shields.io/badge/%E6%94%B6%E5%BD%95-4475-blue?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-13599k%2B-yellow?style=flat-square) ![今日新增](https://img.shields.io/badge/%E4%BB%8A%E6%97%A5%E6%96%B0%E5%A2%9E-7-green?style=flat-square) ![更新](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0-2026-05-29-orange?style=flat-square)
 
 ---
 
@@ -18,62 +18,62 @@
 
 | 分类 | 数量 | 占比 |
 |------|-----:|-----:|
-| 🤖 AI & 机器学习 | 3266 | ████████████████████████ 73.1% |
+| 🤖 AI & 机器学习 | 3271 | ████████████████████████ 73.1% |
 | 🔌 MCP 服务 | 135 | █ 3.0% |
 | 📏 Cursor Rules | 22 | █ 0.5% |
 | 💬 提示词工程 | 146 | █ 3.3% |
-| 🔧 开发工具 | 589 | ████ 13.2% |
+| 🔧 开发工具 | 590 | ████ 13.2% |
 | 🌐 Web 开发 | 46 | █ 1.0% |
 | ☁️ 云服务 & DevOps | 24 | █ 0.5% |
 | 🔐 安全 | 60 | █ 1.3% |
 | 📊 数据处理 | 30 | █ 0.7% |
 | ⚡ 自动化 & 工作流 | 19 | █ 0.4% |
-| 🎨 UI / UX | 39 | █ 0.9% |
+| 🎨 UI / UX | 40 | █ 0.9% |
 | 💰 金融 | 6 | █ 0.1% |
 | 📦 其他 | 86 | █ 1.9% |
 
 ---
 
-## 🔥 每日热门 (2026-05-28)
+## 🔥 每日热门 (2026-05-29)
 
 | # | 项目 | ⭐ | 📈 日增 | 描述 |
 |:-:|------|---:|-------:|------|
-| 1 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 41,960 | +3730 | Claude Code skills that turn any codebase into an ... |
-| 2 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 25,430 | +2210 | Taste-Skill (High-Agency Frontend) - gives your AI... |
-| 3 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 31,080 | +1908 | Pre-indexed code knowledge graph for Claude Code —... |
-| 4 | [mattpocock/skills](https://github.com/mattpocock/skills) | 109,540 | +1741 | My personal directory of skills, straight from my ... |
-| 5 | [NanmiCoder/claude-code-haha](https://github.com/NanmiCoder/claude-code-haha) | 3,703 | +1736 | Claude Code leaked source - locally runnable versi... |
-| 6 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 126,350 | +1728 | A single CLAUDE.md file to improve Claude Code beh... |
-| 7 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 159,935 | +1703 | A single CLAUDE.md file to improve Claude Code beh... |
-| 8 | [obra/superpowers](https://github.com/obra/superpowers) | 210,516 | +1691 | 提供一个有效的代理技能框架和软件开发方法. |
-| 9 | [block/goose](https://github.com/block/goose) | 37,599 | +1484 | an open source, extensible AI agent that goes beyo... |
-| 10 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 196,729 | +1309 | The agent harness performance optimization system.... |
-| 11 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 12,402 | +1255 | DeepSeek-native AI coding agent for your terminal.... |
-| 12 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 54,488 | +1062 | 🎨 Local-first open replica of Anthropic's Claude D... |
-| 13 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 83,429 | +996 | 一个跨平台桌面所有在一个助理工具,用于克劳德代码,Codex,OpenCode & Gemini C... |
-| 14 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 186,203 | +986 | 经纪人利用性能优化系统,技能,本能,记忆,安全,以及对克劳德代码,Codex,Cowork等领域的研... |
-| 15 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 11,376 | +818 | 611+ cybersecurity skills for AI agents · agentski... |
-| 16 | [anthropics/skills](https://github.com/anthropics/skills) | 142,368 | +699 | Agent Skills公共代码库。 |
-| 17 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 19,129 | +668 | #1 Persistent memory for AI coding agents based on... |
-| 18 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 55,337 | +644 | AI coding assistant skill (Claude Code, Codex, Ope... |
-| 19 | [earendil-works/pi](https://github.com/earendil-works/pi) | 56,722 | +640 | AI agent toolkit: coding agent CLI, unified LLM AP... |
-| 20 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 23,156 | +614 | 科普科普科普科普科普科普科普科普:研究 →写 →评论 →修订 →完成 |
+| 1 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 27,462 | +2032 | Taste-Skill (High-Agency Frontend) - gives your AI... |
+| 2 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 43,881 | +1921 | Claude Code skills that turn any codebase into an ... |
+| 3 | [NanmiCoder/claude-code-haha](https://github.com/NanmiCoder/claude-code-haha) | 3,703 | +1736 | Claude Code leaked source - locally runnable versi... |
+| 4 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 126,350 | +1728 | A single CLAUDE.md file to improve Claude Code beh... |
+| 5 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 32,727 | +1647 | Pre-indexed code knowledge graph for Claude Code —... |
+| 6 | [block/goose](https://github.com/block/goose) | 37,599 | +1484 | an open source, extensible AI agent that goes beyo... |
+| 7 | [mattpocock/skills](https://github.com/mattpocock/skills) | 110,938 | +1398 | My personal directory of skills, straight from my ... |
+| 8 | [obra/superpowers](https://github.com/obra/superpowers) | 211,883 | +1367 | 提供一个有效的代理技能框架和软件开发方法. |
+| 9 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 198,053 | +1324 | The agent harness performance optimization system.... |
+| 10 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 161,157 | +1222 | A single CLAUDE.md file to improve Claude Code beh... |
+| 11 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 13,558 | +1156 | DeepSeek-native AI coding agent for your terminal.... |
+| 12 | [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt) | 2,484 | +1015 | SkillOpt is a text-space optimizer that trains reu... |
+| 13 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 186,203 | +986 | 经纪人利用性能优化系统,技能,本能,记忆,安全,以及对克劳德代码,Codex,Cowork等领域的研... |
+| 14 | [anthropics/skills](https://github.com/anthropics/skills) | 143,350 | +982 | Agent Skills公共代码库。 |
+| 15 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 84,390 | +961 | 一个跨平台桌面所有在一个助理工具,用于克劳德代码,Codex,OpenCode & Gemini C... |
+| 16 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 67,836 | +874 | π RuView turns commodity WiFi signals into real-ti... |
+| 17 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 55,213 | +725 | 🎨 Local-first open replica of Anthropic's Claude D... |
+| 18 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 55,906 | +569 | AI coding assistant skill (Claude Code, Codex, Ope... |
+| 19 | [earendil-works/pi](https://github.com/earendil-works/pi) | 57,287 | +565 | AI agent toolkit: coding agent CLI, unified LLM AP... |
+| 20 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 23,693 | +537 | 科普科普科普科普科普科普科普科普:研究 →写 →评论 →修订 →完成 |
 
 ---
 
 ## 📁 分类目录
 
-- [🤖 AI & 机器学习](#ai-ml) (3266)
+- [🤖 AI & 机器学习](#ai-ml) (3271)
 - [🔌 MCP 服务](#mcp) (135)
 - [📏 Cursor Rules](#cursor-rules) (22)
 - [💬 提示词工程](#prompts) (146)
-- [🔧 开发工具](#dev-tools) (589)
+- [🔧 开发工具](#dev-tools) (590)
 - [🌐 Web 开发](#web) (46)
 - [☁️ 云服务 & DevOps](#cloud) (24)
 - [🔐 安全](#security) (60)
 - [📊 数据处理](#data) (30)
 - [⚡ 自动化 & 工作流](#automation) (19)
-- [🎨 UI / UX](#ui-ux) (39)
+- [🎨 UI / UX](#ui-ux) (40)
 - [💰 金融](#finance) (6)
 - [📦 其他](#other) (86)
 
@@ -84,45 +84,45 @@
 | 项目 | ⭐ | 语言 | 描述 |
 |------|---:|:----:|------|
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 241,485 | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way.... |
-| [obra/superpowers](https://github.com/obra/superpowers) | 210,516 | Shell | An agentic skills framework & software development methodology that wo... |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 196,729 | JavaScript | The agent harness performance optimization system. Skills, instincts, ... |
+| [obra/superpowers](https://github.com/obra/superpowers) | 211,883 | Shell | An agentic skills framework & software development methodology that wo... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 198,053 | JavaScript | The agent harness performance optimization system. Skills, instincts, ... |
 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 186,203 | JavaScript | The agent harness performance optimization system. Skills, instincts, ... |
-| [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 184,603 | Python | AutoGPT is the vision of accessible AI for everyone, to use and to bui... |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 166,464 | TypeScript | The open source coding agent. |
-| [f/prompts.chat](https://github.com/f/prompts.chat) | 162,953 | HTML | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts f... |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 159,935 | - | A single CLAUDE.md file to improve Claude Code behavior, derived from ... |
-| [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) | 155,931 | Java | Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 |
+| [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 184,633 | Python | AutoGPT is the vision of accessible AI for everyone, to use and to bui... |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 166,952 | TypeScript | The open source coding agent. |
+| [f/prompts.chat](https://github.com/f/prompts.chat) | 163,013 | HTML | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts f... |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 161,157 | - | A single CLAUDE.md file to improve Claude Code behavior, derived from ... |
+| [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) | 155,957 | Java | Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 |
 | [f/awesome-chatgpt-prompts](https://github.com/f/prompts.chat) | 149,350 | HTML | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts f... |
-| [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 148,844 | Python | Langflow is a powerful tool for building and deploying AI-powered agen... |
-| [anthropics/skills](https://github.com/anthropics/skills) | 142,368 | Python | Public repository for Agent Skills |
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 138,401 | - | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devi... |
+| [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 148,868 | Python | Langflow is a powerful tool for building and deploying AI-powered agen... |
+| [anthropics/skills](https://github.com/anthropics/skills) | 143,350 | Python | Public repository for Agent Skills |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 138,512 | - | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devi... |
 | [langgenius/dify](https://github.com/langgenius/dify) | 130,747 | TypeScript | Production-ready platform for agentic workflow development. |
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 127,221 | Shell | Claude Code is an agentic coding tool that lives in your terminal, und... |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 127,596 | Shell | Claude Code is an agentic coding tool that lives in your terminal, und... |
 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 126,350 | - | A single CLAUDE.md file to improve Claude Code behavior, derived from ... |
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 111,967 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, An... |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 109,540 | Shell | My personal directory of skills, straight from my .claude directory. |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | 103,898 | TypeScript | Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serv... |
-| [openai/codex](https://github.com/openai/codex) | 86,533 | Rust | Lightweight coding agent that runs in your terminal |
-| [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | 86,386 | TypeScript | Model Context Protocol Servers |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 79,310 | TypeScript | A Claude Code plugin that automatically captures everything Claude doe... |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 112,111 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, An... |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 110,938 | Shell | My personal directory of skills, straight from my .claude directory. |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | 104,258 | TypeScript | Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serv... |
+| [openai/codex](https://github.com/openai/codex) | 86,834 | Rust | Lightweight coding agent that runs in your terminal |
+| [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | 86,447 | TypeScript | Model Context Protocol Servers |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 79,525 | TypeScript | A Claude Code plugin that automatically captures everything Claude doe... |
 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 79,238 | Python | 🌐 Make websites accessible for AI agents. Automate tasks online with e... |
-| [lobehub/lobehub](https://github.com/lobehub/lobehub) | 77,861 | TypeScript | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×... |
+| [lobehub/lobehub](https://github.com/lobehub/lobehub) | 77,927 | TypeScript | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×... |
 | [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | 77,163 | C++ | GPT4All: Run Local LLMs on Any Device. Open-source and available for c... |
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 69,858 | Python | An open-source SuperAgent harness that researches, codes, and creates.... |
-| [ansible/ansible](https://github.com/ansible/ansible) | 68,710 | Python | Ansible is a radically simple IT automation platform that makes your a... |
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 66,962 | Rust | π RuView turns commodity WiFi signals into real-time spatial intellige... |
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 65,835 | Python | 🪨 why use many token when few token do trick — Claude Code skill that ... |
-| [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 63,220 | TypeScript | Bash is all you need -  A nano Claude Code–like agent, built from 0 to... |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 69,941 | Python | An open-source SuperAgent harness that researches, codes, and creates.... |
+| [ansible/ansible](https://github.com/ansible/ansible) | 68,712 | Python | Ansible is a radically simple IT automation platform that makes your a... |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 67,836 | Rust | π RuView turns commodity WiFi signals into real-time spatial intellige... |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 66,226 | Python | 🪨 why use many token when few token do trick — Claude Code skill that ... |
+| [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 63,504 | TypeScript | Bash is all you need -  A nano Claude Code–like agent, built from 0 to... |
 | [OpenInterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) | 62,470 | Python | A natural language interface for computers |
-| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 62,234 | Python | A curated list of awesome Claude Skills, resources, and tools for cust... |
-| [earendil-works/pi](https://github.com/earendil-works/pi) | 56,722 | TypeScript | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libr... |
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 55,988 | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intellig... |
+| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 62,379 | Python | A curated list of awesome Claude Skills, resources, and tools for cust... |
+| [earendil-works/pi](https://github.com/earendil-works/pi) | 57,287 | TypeScript | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libr... |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 56,274 | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intellig... |
+| [safishamsi/graphify](https://github.com/safishamsi/graphify) | 55,906 | Python | AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw). Tu... |
 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 55,621 | JavaScript | The all-in-one Desktop & Docker AI application with built-in RAG, AI a... |
-| [safishamsi/graphify](https://github.com/safishamsi/graphify) | 55,337 | Python | AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw). Tu... |
-| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 55,267 | HTML | practice made claude perfect |
-| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 54,488 | TypeScript | 🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills ·... |
-| [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 51,329 | TypeScript | Spec-driven development (SDD) for AI coding assistants. |
-| [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 49,448 | - | The awesome collection of OpenClaw skills. 5,400+ skills filtered and ... |
+| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 55,440 | HTML | practice made claude perfect |
+| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 55,213 | TypeScript | 🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills ·... |
+| [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 51,582 | TypeScript | Spec-driven development (SDD) for AI coding assistants. |
+| [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 49,484 | - | The awesome collection of OpenClaw skills. 5,400+ skills filtered and ... |
 
 ---
 
@@ -131,39 +131,39 @@
 | 项目 | ⭐ | 语言 | 描述 |
 |------|---:|:----:|------|
 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 96,048 | TypeScript | An open-source AI agent that brings the power of Gemini directly into ... |
-| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 88,066 | - | A collection of MCP servers. |
-| [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | 21,321 | TypeScript | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8... |
-| [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) | 7,176 | - | MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients |
-| [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) | 6,867 | Go | A community driven registry service for Model Context Protocol (MCP) s... |
-| [getsentry/XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) | 5,764 | TypeScript | A Model Context Protocol (MCP) server and CLI that provides tools for ... |
-| [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) | 5,229 | TypeScript | 5ire is a cross-platform desktop AI assistant, MCP client. It compatib... |
-| [MinishLab/semble](https://github.com/MinishLab/semble) | 4,461 | Python | Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than ... |
+| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 88,140 | - | A collection of MCP servers. |
+| [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | 21,344 | TypeScript | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8... |
+| [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) | 7,184 | - | MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients |
+| [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) | 6,871 | Go | A community driven registry service for Model Context Protocol (MCP) s... |
+| [getsentry/XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) | 5,771 | TypeScript | A Model Context Protocol (MCP) server and CLI that provides tools for ... |
+| [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) | 5,228 | TypeScript | 5ire is a cross-platform desktop AI assistant, MCP client. It compatib... |
+| [MinishLab/semble](https://github.com/MinishLab/semble) | 4,514 | Python | Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than ... |
 | [wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) | 4,121 | - | A curated list of Model Context Protocol (MCP) servers |
 | [evalstate/fast-agent](https://github.com/evalstate/fast-agent) | 3,796 | Python | Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP S... |
-| [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) | 2,496 | Python | Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tas... |
-| [AmoyLab/Unla](https://github.com/AmoyLab/Unla) | 2,123 | TypeScript | 🧩 MCP Gateway - A lightweight gateway service that instantly transform... |
+| [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) | 2,506 | Python | Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tas... |
+| [AmoyLab/Unla](https://github.com/AmoyLab/Unla) | 2,127 | TypeScript | 🧩 MCP Gateway - A lightweight gateway service that instantly transform... |
 | [chatmcp/mcpso](https://github.com/chatmcp/mcpso) | 2,011 | TypeScript | directory for Awesome MCP Servers |
-| [stacklok/toolhive](https://github.com/stacklok/toolhive) | 1,825 | Go | ToolHive is an enterprise-grade platform for running and managing Mode... |
-| [GongRzhe/Office-PowerPoint-MCP-Server](https://github.com/GongRzhe/Office-PowerPoint-MCP-Server) | 1,735 | Python | A MCP (Model Context Protocol) server for PowerPoint manipulation usin... |
-| [openags/paper-search-mcp](https://github.com/openags/paper-search-mcp) | 1,597 | Python | MCP, CLI, Skills for searching and downloading academic papers from mu... |
+| [stacklok/toolhive](https://github.com/stacklok/toolhive) | 1,834 | Go | ToolHive is an enterprise-grade platform for running and managing Mode... |
+| [GongRzhe/Office-PowerPoint-MCP-Server](https://github.com/GongRzhe/Office-PowerPoint-MCP-Server) | 1,739 | Python | A MCP (Model Context Protocol) server for PowerPoint manipulation usin... |
+| [openags/paper-search-mcp](https://github.com/openags/paper-search-mcp) | 1,609 | Python | MCP, CLI, Skills for searching and downloading academic papers from mu... |
 | [f/mcptools](https://github.com/f/mcptools) | 1,590 | Go | A command-line interface for interacting with MCP (Model Context Proto... |
-| [designcomputer/mysql_mcp_server](https://github.com/designcomputer/mysql_mcp_server) | 1,265 | Python | A Model Context Protocol (MCP) server that enables secure interaction ... |
-| [lgazo/drawio-mcp-server](https://github.com/lgazo/drawio-mcp-server) | 1,248 | TypeScript | Draw.io Model Context Protocol (MCP) Server |
-| [nickclyde/duckduckgo-mcp-server](https://github.com/nickclyde/duckduckgo-mcp-server) | 1,190 | Python | A Model Context Protocol (MCP) server that provides web search capabil... |
+| [designcomputer/mysql_mcp_server](https://github.com/designcomputer/mysql_mcp_server) | 1,266 | Python | A Model Context Protocol (MCP) server that enables secure interaction ... |
+| [lgazo/drawio-mcp-server](https://github.com/lgazo/drawio-mcp-server) | 1,249 | TypeScript | Draw.io Model Context Protocol (MCP) Server |
+| [nickclyde/duckduckgo-mcp-server](https://github.com/nickclyde/duckduckgo-mcp-server) | 1,192 | Python | A Model Context Protocol (MCP) server that provides web search capabil... |
 | [jaw9c/awesome-remote-mcp-servers](https://github.com/jaw9c/awesome-remote-mcp-servers) | 1,065 | - | Remote MCP Servers |
-| [mongodb-js/mongodb-mcp-server](https://github.com/mongodb-js/mongodb-mcp-server) | 1,038 | TypeScript | A Model Context Protocol server to connect to MongoDB databases and Mo... |
-| [better-auth/better-icons](https://github.com/better-auth/better-icons) | 1,030 | TypeScript | Skill and MCP server for searching and retrieving icons |
+| [mongodb-js/mongodb-mcp-server](https://github.com/mongodb-js/mongodb-mcp-server) | 1,039 | TypeScript | A Model Context Protocol server to connect to MongoDB databases and Mo... |
+| [better-auth/better-icons](https://github.com/better-auth/better-icons) | 1,032 | TypeScript | Skill and MCP server for searching and retrieving icons |
 | [ref-tools/ref-tools-mcp](https://github.com/ref-tools/ref-tools-mcp) | 989 | TypeScript | Helping coding agents never make mistakes working with public or priva... |
-| [negokaz/excel-mcp-server](https://github.com/negokaz/excel-mcp-server) | 960 | Go | A Model Context Protocol (MCP) server that reads and writes MS Excel d... |
-| [neo4j-contrib/mcp-neo4j](https://github.com/neo4j-contrib/mcp-neo4j) | 949 | Python | Neo4j Labs Model Context Protocol servers |
+| [negokaz/excel-mcp-server](https://github.com/negokaz/excel-mcp-server) | 959 | Go | A Model Context Protocol (MCP) server that reads and writes MS Excel d... |
+| [neo4j-contrib/mcp-neo4j](https://github.com/neo4j-contrib/mcp-neo4j) | 950 | Python | Neo4j Labs Model Context Protocol servers |
 | [alioshr/memory-bank-mcp](https://github.com/alioshr/memory-bank-mcp) | 905 | TypeScript | A Model Context Protocol (MCP) server implementation for remote memory... |
 | [suekou/mcp-notion-server](https://github.com/suekou/mcp-notion-server) | 893 | TypeScript | A Model Context Protocol server for connecting Notion to MCP-compatibl... |
 | [MobinX/awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list) | 879 | - | A concise list for mcp servers |
 | [WJZ-P/gemini-skill](https://github.com/WJZ-P/gemini-skill) | 822 | JavaScript | gemini drawing MCP & skill through browser, can be used in openclaw or... |
-| [Softeria/ms-365-mcp-server](https://github.com/Softeria/ms-365-mcp-server) | 741 | TypeScript | A Model Context Protocol (MCP) server for interacting with Microsoft 3... |
-| [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) | 716 | Python | A text-based user interface (TUI) client for interacting with MCP serv... |
-| [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) | 707 | - | A comprehensive collection of Model Context Protocol (MCP) servers |
-| [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security) | 611 | TypeScript | MCP for Security: A collection of Model Context Protocol servers for p... |
+| [Softeria/ms-365-mcp-server](https://github.com/Softeria/ms-365-mcp-server) | 742 | TypeScript | A Model Context Protocol (MCP) server for interacting with Microsoft 3... |
+| [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) | 717 | Python | A text-based user interface (TUI) client for interacting with MCP serv... |
+| [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) | 711 | - | A comprehensive collection of Model Context Protocol (MCP) servers |
+| [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security) | 612 | TypeScript | MCP for Security: A collection of Model Context Protocol servers for p... |
 | [miantiao-me/bm.md](https://github.com/miantiao-me/bm.md) | 584 | TypeScript | 更好用的 Markdown 排版助手｜一键适配微信公众号、网页与图片。 |
 | [dbt-labs/dbt-mcp](https://github.com/dbt-labs/dbt-mcp) | 569 | Python | A MCP (Model Context Protocol) server for interacting with dbt. |
 | [MxIris-Reverse-Engineering/ida-mcp-server](https://github.com/MxIris-Reverse-Engineering/ida-mcp-server) | 544 | Python | A Model Context Protocol server for IDA |
@@ -177,10 +177,10 @@
 
 | 项目 | ⭐ | 语言 | 描述 |
 |------|---:|:----:|------|
-| [grapeot/devin.cursorrules](https://github.com/grapeot/devin.cursorrules) | 5,968 | Python | Magic to turn Cursor/Windsurf as 90% of Devin |
+| [grapeot/devin.cursorrules](https://github.com/grapeot/devin.cursorrules) | 5,969 | Python | Magic to turn Cursor/Windsurf as 90% of Devin |
 | [sanjeed5/awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) | 3,517 | Python | Curated list of awesome Cursor Rules .mdc files |
-| [kinopeee/cursorrules](https://github.com/kinopeee/cursorrules) | 1,118 | - |  |
-| [matank001/cursor-security-rules](https://github.com/matank001/cursor-security-rules) | 369 | - | This repository contains Cursor Security Rules designed to improve the... |
+| [kinopeee/cursorrules](https://github.com/kinopeee/cursorrules) | 1,116 | - |  |
+| [matank001/cursor-security-rules](https://github.com/matank001/cursor-security-rules) | 370 | - | This repository contains Cursor Security Rules designed to improve the... |
 | [skindhu/harmony-cursor-rules](https://github.com/skindhu/harmony-cursor-rules) | 104 | Python | 🎯 基于AI技术自动提取华为HarmonyOS官方最佳实践，生成专业的CursorRules规则文件。解决主流AI模型缺乏HarmonyOS... |
 | [ivangrynenko/cursorrules](https://github.com/ivangrynenko/cursorrules) | 82 | Shell | A set of cursor rules for Cursor AI IDE that support PHP, Python, Java... |
 | [beilunyang/vscode-cursor-rules](https://github.com/beilunyang/vscode-cursor-rules) | 49 | TypeScript | An extension for Cursor and VSCode that lets you pull .cursorrules fil... |
@@ -206,26 +206,26 @@
 
 | 项目 | ⭐ | 语言 | 描述 |
 |------|---:|:----:|------|
-| [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) | 60,402 | - | ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。 |
-| [github/awesome-copilot](https://github.com/github/awesome-copilot) | 34,004 | JavaScript | Community-contributed instructions, prompts, and configurations to hel... |
-| [powerline/powerline](https://github.com/powerline/powerline) | 14,760 | Python | Powerline is a statusline plugin for vim, and provides statuslines and... |
-| [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) | 12,235 | TypeScript | 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated pro... |
-| [ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro) | 10,002 | - | 🚀 An awesome list of curated Nano Banana pro prompts and examples. You... |
-| [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) | 8,053 | - | Curated list of chatgpt prompts from the top-rated GPTs in the GPTs St... |
-| [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) | 4,984 | - | A curation of prompts, plugins & other Fish treasures 🐚💎 |
-| [NousResearch/hermes-agent-self-evolution](https://github.com/NousResearch/hermes-agent-self-evolution) | 3,649 | Python | ⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, pr... |
-| [serenakeyitan/awesome-notebookLM-prompts](https://github.com/serenakeyitan/awesome-notebookLM-prompts) | 3,525 | - | A curated collection of the strongest NotebookLM slide prompts sourced... |
-| [L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN) | 3,159 | - | 如何将ChatGPT调教成一只猫娘 |
-| [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) | 3,049 | - | Some awesome prompts for Jules Agent |
-| [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) | 2,430 | - | Research into how agentic AI coding assistants work — reconstructed pr... |
-| [0x0funky/agent-sprite-forge](https://github.com/0x0funky/agent-sprite-forge) | 2,424 | Python | Agent Skill for generating 2D sprite sheets and map, transparent PNG f... |
-| [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) | 2,371 | JavaScript | 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quic... |
-| [ZeroLu/awesome-seedance](https://github.com/ZeroLu/awesome-seedance) | 1,821 | - | The ultimate collection of high-fidelity Seedance 2.0 prompts and Seed... |
-| [ZeroLu/awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image) | 1,526 | - | A curated collection of the best GPT Image 2 prompts and examples. The... |
+| [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) | 60,419 | - | ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。 |
+| [github/awesome-copilot](https://github.com/github/awesome-copilot) | 34,092 | JavaScript | Community-contributed instructions, prompts, and configurations to hel... |
+| [powerline/powerline](https://github.com/powerline/powerline) | 14,763 | Python | Powerline is a statusline plugin for vim, and provides statuslines and... |
+| [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) | 12,274 | TypeScript | 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated pro... |
+| [ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro) | 10,027 | - | 🚀 An awesome list of curated Nano Banana pro prompts and examples. You... |
+| [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) | 8,062 | - | Curated list of chatgpt prompts from the top-rated GPTs in the GPTs St... |
+| [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) | 4,985 | - | A curation of prompts, plugins & other Fish treasures 🐚💎 |
+| [NousResearch/hermes-agent-self-evolution](https://github.com/NousResearch/hermes-agent-self-evolution) | 3,681 | Python | ⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, pr... |
+| [serenakeyitan/awesome-notebookLM-prompts](https://github.com/serenakeyitan/awesome-notebookLM-prompts) | 3,544 | - | A curated collection of the strongest NotebookLM slide prompts sourced... |
+| [L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN) | 3,160 | - | 如何将ChatGPT调教成一只猫娘 |
+| [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) | 3,052 | - | Some awesome prompts for Jules Agent |
+| [0x0funky/agent-sprite-forge](https://github.com/0x0funky/agent-sprite-forge) | 2,442 | Python | Agent Skill for generating 2D sprite sheets and map, transparent PNG f... |
+| [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) | 2,435 | - | Research into how agentic AI coding assistants work — reconstructed pr... |
+| [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) | 2,373 | JavaScript | 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quic... |
+| [ZeroLu/awesome-seedance](https://github.com/ZeroLu/awesome-seedance) | 1,827 | - | The ultimate collection of high-fidelity Seedance 2.0 prompts and Seed... |
+| [ZeroLu/awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image) | 1,534 | - | A curated collection of the best GPT Image 2 prompts and examples. The... |
 | [NeekChaw/awesome-prompt](https://github.com/NeekChaw/awesome-prompt) | 1,299 | GCC Machine Description | 让你一眼惊艳的prompt |
 | [skills-directory/skill-codex](https://github.com/skills-directory/skill-codex) | 1,271 | - | A claude code skill to delegate prompts to codex |
-| [YouMind-OpenLab/awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts) | 1,237 | TypeScript | 🎬 400+ curated Seedance 2.0 video generation prompts — cinematic, anim... |
-| [dongshuyan/Awesome-Prompts](https://github.com/dongshuyan/Awesome-Prompts) | 1,154 | - | 分享一下自创以及打野得到的各种优质prompt |
+| [YouMind-OpenLab/awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts) | 1,245 | TypeScript | 🎬 400+ curated Seedance 2.0 video generation prompts — cinematic, anim... |
+| [dongshuyan/Awesome-Prompts](https://github.com/dongshuyan/Awesome-Prompts) | 1,161 | - | 分享一下自创以及打野得到的各种优质prompt |
 | [Bhartendu-Kumar/rules_template](https://github.com/Bhartendu-Kumar/rules_template) | 1,059 | - | If using CLINE/RooCode/Cursor/Windsurf Setup these rules. Usable for n... |
 | [ttengwang/Awesome_Prompting_Papers_in_Computer_Vision](https://github.com/ttengwang/Awesome_Prompting_Papers_in_Computer_Vision) | 926 | - | A curated list of prompt-based paper in computer vision and vision-lan... |
 | [browser-use/awesome-prompts](https://github.com/browser-use/awesome-prompts) | 925 | - | Table of awesome Browser Use prompts |
@@ -236,16 +236,16 @@
 | [JindongGu/Awesome-Prompting-on-Vision-Language-Model](https://github.com/JindongGu/Awesome-Prompting-on-Vision-Language-Model) | 510 | - | This repo lists relevant papers summarized in our survey paper:  A Sys... |
 | [YouMind-OpenLab/awesome-gemini-3-prompts](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts) | 491 | TypeScript | ♊ 50+ selected Gemini prompts with images, multilingual support, and i... |
 | [songtianlun/awesome-prompts](https://github.com/songtianlun/awesome-prompts) | 480 | HTML | Awesome Prompts, Nano Banana, Nano Banana Pro, Sora2, GPT-4o, gpt-imag... |
-| [langgptai/awesome-gemini-prompts](https://github.com/langgptai/awesome-gemini-prompts) | 457 | - | Gemini Prompts, Gemini 3 Prompts, jailbreak, LLM Prompts, LangGPT —— b... |
-| [WxxShirley/Awesome-Graph-Prompt](https://github.com/WxxShirley/Awesome-Graph-Prompt) | 423 | - | Awesome Papers About Performing Prompting On Graphs |
+| [langgptai/awesome-gemini-prompts](https://github.com/langgptai/awesome-gemini-prompts) | 458 | - | Gemini Prompts, Gemini 3 Prompts, jailbreak, LLM Prompts, LangGPT —— b... |
+| [WxxShirley/Awesome-Graph-Prompt](https://github.com/WxxShirley/Awesome-Graph-Prompt) | 424 | - | Awesome Papers About Performing Prompting On Graphs |
+| [kesslernity/awesome-microsoft-copilot-prompts](https://github.com/kesslernity/awesome-microsoft-copilot-prompts) | 378 | - | The definitive Microsoft 365 Copilot prompt library for business teams... |
 | [Jermic/awesome-aiart-pics-prompts](https://github.com/Jermic/awesome-aiart-pics-prompts) | 375 | - | 🎨 精选 3000+ Gemini Nano Banana Pro 高质量提示词与生成案例 | 涵盖摄影、设计、艺术、营销等多领域 | 双语... |
-| [kesslernity/awesome-microsoft-copilot-prompts](https://github.com/kesslernity/awesome-microsoft-copilot-prompts) | 375 | - | The definitive Microsoft 365 Copilot prompt library for business teams... |
+| [EvoLinkAI/awesome-seedance-2-guide](https://github.com/EvoLinkAI/awesome-seedance-2-guide) | 372 | Shell | Complete guide to Seedance 2.0 — multimodal AI video generation with i... |
 | [ora-sh/Awesome-GPT4-Prompts](https://github.com/ora-sh/Awesome-GPT4-Prompts) | 371 | - | A collection of awesome GPT4 prompts |
-| [EvoLinkAI/awesome-seedance-2-guide](https://github.com/EvoLinkAI/awesome-seedance-2-guide) | 370 | Shell | Complete guide to Seedance 2.0 — multimodal AI video generation with i... |
-| [Anil-matcha/Awesome-Gemini-Omni-API-Prompts](https://github.com/Anil-matcha/Awesome-Gemini-Omni-API-Prompts) | 330 | - | Curated Gemini Omni prompts for video generation via the Google AI / G... |
+| [Anil-matcha/Awesome-Gemini-Omni-API-Prompts](https://github.com/Anil-matcha/Awesome-Gemini-Omni-API-Prompts) | 336 | - | Curated Gemini Omni prompts for video generation via the Google AI / G... |
 | [langgptai/Awesome-Multimodal-Prompts](https://github.com/langgptai/Awesome-Multimodal-Prompts) | 284 | - | Prompts of GPT-4V & DALL-E3 to full utilize the multi-modal ability. G... |
 | [zhangchenchen/awesome_sora2_prompt](https://github.com/zhangchenchen/awesome_sora2_prompt) | 223 | - | Awesome Sora2 Prompt |
-| [devanshug2307/Awesome-AI-Image-Prompts](https://github.com/devanshug2307/Awesome-AI-Image-Prompts) | 185 | - | 1000+ curated AI image generation prompts for DALL-E, Midjourney, Goog... |
+| [devanshug2307/Awesome-AI-Image-Prompts](https://github.com/devanshug2307/Awesome-AI-Image-Prompts) | 187 | - | 1000+ curated AI image generation prompts for DALL-E, Midjourney, Goog... |
 
 ---
 
@@ -253,46 +253,46 @@
 
 | 项目 | ⭐ | 语言 | 描述 |
 |------|---:|:----:|------|
-| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 83,429 | TypeScript | A cross-platform desktop All-in-One assistant tool for Claude Code, Co... |
+| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 84,390 | TypeScript | A cross-platform desktop All-in-One assistant tool for Claude Code, Co... |
 | [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | 75,355 | - | List of Computer Science courses with video lectures. |
-| [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) | 63,751 | JavaScript | A light-weight and powerful meta-prompting, context engineering and sp... |
-| [cline/cline](https://github.com/cline/cline) | 62,446 | TypeScript | Autonomous coding agent right in your IDE, capable of creating/editing... |
+| [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) | 63,773 | JavaScript | A light-weight and powerful meta-prompting, context engineering and sp... |
+| [cline/cline](https://github.com/cline/cline) | 62,498 | TypeScript | Autonomous coding agent right in your IDE, capable of creating/editing... |
 | [slidevjs/slidev](https://github.com/slidevjs/slidev) | 44,558 | TypeScript | Presentation Slides for Developers |
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 42,092 | TypeScript | Chrome DevTools for coding agents |
-| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 40,597 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is... |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 42,223 | TypeScript | Chrome DevTools for coding agents |
+| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 40,722 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is... |
 | [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 38,231 | TypeScript | 🎥      Make videos programmatically with React |
-| [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 37,944 | JavaScript | ToolJet is the open-source foundation of ToolJet AI - the AI-native pl... |
-| [PostHog/posthog](https://github.com/PostHog/posthog) | 34,735 | Python | 🦔 PostHog is an all-in-one developer platform for building successful ... |
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 30,434 | Python | Use claude-code for free in the terminal, VSCode extension or via disc... |
-| [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) | 23,158 | Python | The official Python SDK for Model Context Protocol servers and clients |
-| [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) | 20,101 | Dockerfile | Self-Hosting Guide. Learn all about  locally hosting (on premises & pr... |
-| [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | 19,657 | TypeScript | Kilo is the all-in-one agentic engineering platform. Build, ship, and ... |
-| [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 16,097 | Python | A comprehensive collection of Agent Skills for context engineering, mu... |
-| [cvat-ai/cvat](https://github.com/cvat-ai/cvat) | 15,929 | Python | Computer Vision Annotation Tool (CVAT) is a leading platform for build... |
-| [plandex-ai/plandex](https://github.com/plandex-ai/plandex) | 15,410 | Go | Open source AI coding agent. Designed for large projects and real worl... |
-| [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) | 14,953 | TypeScript | A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL ... |
-| [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | 14,946 | TypeScript | A format specification for describing a visual identity to coding agen... |
+| [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 37,946 | JavaScript | ToolJet is the open-source foundation of ToolJet AI - the AI-native pl... |
+| [PostHog/posthog](https://github.com/PostHog/posthog) | 34,755 | Python | 🦔 PostHog is an all-in-one developer platform for building successful ... |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 30,720 | Python | Use claude-code for free in the terminal, VSCode extension or via disc... |
+| [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) | 23,167 | Python | The official Python SDK for Model Context Protocol servers and clients |
+| [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) | 20,115 | Dockerfile | Self-Hosting Guide. Learn all about  locally hosting (on premises & pr... |
+| [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | 19,683 | TypeScript | Kilo is the all-in-one agentic engineering platform. Build, ship, and ... |
+| [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 16,128 | Python | A comprehensive collection of Agent Skills for context engineering, mu... |
+| [cvat-ai/cvat](https://github.com/cvat-ai/cvat) | 15,941 | Python | Computer Vision Annotation Tool (CVAT) is a leading platform for build... |
+| [plandex-ai/plandex](https://github.com/plandex-ai/plandex) | 15,415 | Go | Open source AI coding agent. Designed for large projects and real worl... |
+| [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) | 15,110 | TypeScript | A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL ... |
+| [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | 14,999 | TypeScript | A format specification for describing a visual identity to coding agen... |
 | [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | 14,924 | Python | A collection of projects designed to help developers quickly get start... |
-| [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) | 12,556 | TypeScript | The official TypeScript SDK for Model Context Protocol servers and cli... |
-| [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 12,402 | TypeScript | DeepSeek-native AI coding agent for your terminal. Engineered around p... |
-| [superset-sh/superset](https://github.com/superset-sh/superset) | 11,388 | TypeScript | IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on... |
+| [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 13,558 | TypeScript | DeepSeek-native AI coding agent for your terminal. Engineered around p... |
+| [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) | 12,562 | TypeScript | The official TypeScript SDK for Model Context Protocol servers and cli... |
+| [superset-sh/superset](https://github.com/superset-sh/superset) | 11,413 | TypeScript | IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on... |
 | [tobi/qmd](https://github.com/tobi/qmd) | 11,172 | TypeScript | mini cli search engine for your docs, knowledge bases, meeting notes, ... |
-| [github/copilot-cli](https://github.com/github/copilot-cli) | 10,632 | Shell | GitHub Copilot CLI brings the power of Copilot coding agent directly t... |
-| [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) | 10,146 | Go | Video translation and dubbing tool powered by LLMs. The video translat... |
-| [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) | 10,127 | JavaScript | UAParser.js - The Essential Web Development Tool for User-Agent Detect... |
-| [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) | 9,901 | TypeScript | 🚀 Beautiful highly customizable statusline for Claude Code CLI with po... |
-| [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) | 8,517 | JavaScript | 45 tips for getting the most out of Claude Code, from basics to advanc... |
+| [github/copilot-cli](https://github.com/github/copilot-cli) | 10,641 | Shell | GitHub Copilot CLI brings the power of Copilot coding agent directly t... |
+| [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) | 10,161 | Go | Video translation and dubbing tool powered by LLMs. The video translat... |
+| [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) | 10,128 | JavaScript | UAParser.js - The Essential Web Development Tool for User-Agent Detect... |
+| [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) | 9,964 | TypeScript | 🚀 Beautiful highly customizable statusline for Claude Code CLI with po... |
+| [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) | 8,534 | JavaScript | 45 tips for getting the most out of Claude Code, from basics to advanc... |
 | [sweepai/sweep](https://github.com/sweepai/sweep) | 7,710 | Jupyter Notebook | Sweep: AI coding assistant for JetBrains |
-| [getagentseal/codeburn](https://github.com/getagentseal/codeburn) | 7,187 | TypeScript | See where your AI coding tokens go. Interactive TUI dashboard for Clau... |
-| [getpaseo/paseo](https://github.com/getpaseo/paseo) | 6,847 | TypeScript | Orchestrate coding agents remotely from your phone, desktop and CLI |
-| [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) | 6,684 | TypeScript | The coding agent built for the web. stagewise is a purpose-built brows... |
+| [getagentseal/codeburn](https://github.com/getagentseal/codeburn) | 7,251 | TypeScript | See where your AI coding tokens go. Interactive TUI dashboard for Clau... |
+| [getpaseo/paseo](https://github.com/getpaseo/paseo) | 6,906 | TypeScript | Orchestrate coding agents remotely from your phone, desktop and CLI |
+| [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) | 6,685 | TypeScript | The coding agent built for the web. stagewise is a purpose-built brows... |
 | [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) | 6,385 | HTML | A polyglot document intelligence framework with a Rust core. Extract t... |
-| [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) | 5,746 | Python | Klavis AI (YC X25):  MCP integration platforms that let AI agents use ... |
-| [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright) | 5,534 | TypeScript | Playwright Model Context Protocol Server - Tool to automate Browsers a... |
-| [tw93/Waza](https://github.com/tw93/Waza) | 5,391 | Shell | 🥷 Claude Code skills for the complete engineer: think, build, debug, w... |
-| [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) | 5,092 | Rust | Run local code as if it were a pod in a remote Kubernetes cluster: rea... |
-| [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) | 4,786 | Python | ACI.dev is the open source tool-calling platform that hooks up 600+ to... |
-| [generalaction/emdash](https://github.com/generalaction/emdash) | 4,670 | TypeScript | Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). ... |
+| [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) | 5,747 | Python | Klavis AI (YC X25):  MCP integration platforms that let AI agents use ... |
+| [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright) | 5,536 | TypeScript | Playwright Model Context Protocol Server - Tool to automate Browsers a... |
+| [tw93/Waza](https://github.com/tw93/Waza) | 5,416 | Shell | 🥷 Claude Code skills for the complete engineer: think, build, debug, w... |
+| [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) | 5,095 | Rust | Run local code as if it were a pod in a remote Kubernetes cluster: rea... |
+| [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) | 4,788 | Python | ACI.dev is the open source tool-calling platform that hooks up 600+ to... |
+| [generalaction/emdash](https://github.com/generalaction/emdash) | 4,680 | TypeScript | Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). ... |
 
 ---
 
@@ -302,19 +302,19 @@
 |------|---:|:----:|------|
 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 441,494 | - | 😎 Awesome lists about all kinds of interesting topics |
 | [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) | 66,263 | JavaScript | 📜 33 JavaScript concepts every developer should know. |
-| [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 19,417 | - | Create beautiful slides on the web using Claude's frontend skills |
-| [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 15,624 | TypeScript | Clone any website with one command using AI coding agents |
-| [InsForge/InsForge](https://github.com/InsForge/InsForge) | 10,717 | TypeScript | The backend built for agentic development. AI-native Supabase alternat... |
-| [formkit/formkit](https://github.com/formkit/formkit) | 4,714 | TypeScript | The form framework for coding agents |
-| [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) | 2,340 | TypeScript | A secure REST API and Model Context Protocol (MCP) server for your vau... |
+| [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 19,551 | - | Create beautiful slides on the web using Claude's frontend skills |
+| [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 15,672 | TypeScript | Clone any website with one command using AI coding agents |
+| [InsForge/InsForge](https://github.com/InsForge/InsForge) | 10,748 | TypeScript | The backend built for agentic development. AI-native Supabase alternat... |
+| [formkit/formkit](https://github.com/formkit/formkit) | 4,713 | TypeScript | The form framework for coding agents |
+| [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) | 2,349 | TypeScript | A secure REST API and Model Context Protocol (MCP) server for your vau... |
 | [TommyLemon/APIAuto](https://github.com/TommyLemon/APIAuto) | 2,200 | JavaScript | ☔ 敏捷开发最强大易用的接口工具，机器学习零代码测试与 AI 问答、生成代码与静态检查、生成文档与光标悬浮注释，腾讯、华为、SHEIN、传音... |
 | [rapid7/hackazon](https://github.com/rapid7/hackazon) | 1,019 | HTML | A modern vulnerable web app |
 | [stamparm/DSVW](https://github.com/stamparm/DSVW) | 857 | Python | Damn Small Vulnerable Web |
-| [ythx-101/x-tweet-fetcher](https://github.com/ythx-101/x-tweet-fetcher) | 846 | Python | 🦞 Fetch tweets and replies from X/Twitter without login or API keys. O... |
+| [ythx-101/x-tweet-fetcher](https://github.com/ythx-101/x-tweet-fetcher) | 847 | Python | 🦞 Fetch tweets and replies from X/Twitter without login or API keys. O... |
 | [AgnosticUI/agnosticui](https://github.com/AgnosticUI/agnosticui) | 810 | TypeScript | AgnosticUI Local (v2) is a CLI-based UI component library that copies ... |
-| [awesome-skills/code-review-skill](https://github.com/awesome-skills/code-review-skill) | 751 | HTML | A comprehensive code review skill for Claude Code, covering React 19, ... |
+| [awesome-skills/code-review-skill](https://github.com/awesome-skills/code-review-skill) | 770 | HTML | A comprehensive code review skill for Claude Code, covering React 19, ... |
 | [angular/web-codegen-scorer](https://github.com/angular/web-codegen-scorer) | 744 | TypeScript | Web Codegen Scorer is a tool for evaluating the quality of web code ge... |
-| [liyupi/yupi-hot-monitor](https://github.com/liyupi/yupi-hot-monitor) | 475 | TypeScript | 2026 年编程导航 AI 编程实战新项目，基于 Node.js + Express + React + OpenRouter 的 AI 热... |
+| [liyupi/yupi-hot-monitor](https://github.com/liyupi/yupi-hot-monitor) | 476 | TypeScript | 2026 年编程导航 AI 编程实战新项目，基于 Node.js + Express + React + OpenRouter 的 AI 热... |
 | [snoopysecurity/dvws](https://github.com/snoopysecurity/dvws) | 457 | PHP | Damn Vulnerable Web Services is an insecure web application with multi... |
 | [evmts/tevm-monorepo](https://github.com/evmts/tevm-monorepo) | 436 | TypeScript | An Ethereum Node built to run in Browser, Bun, Deno, and Node.js |
 | [king04aman/All-In-One-Python-Projects](https://github.com/king04aman/All-In-One-Python-Projects) | 346 | Python | A huge collection of awesome beginner-friendly Python projects startin... |
@@ -329,7 +329,7 @@
 | [commixproject/commix-testbed](https://github.com/commixproject/commix-testbed) | 181 | PHP | A collection of web pages, vulnerable to command injection flaws |
 | [Dianel555/paper-search-mcp-nodejs](https://github.com/Dianel555/paper-search-mcp-nodejs) | 163 | TypeScript | A Node.js implementation of the Model Context Protocol (MCP) server fo... |
 | [aiguicai/MCP-Gateway](https://github.com/aiguicai/MCP-Gateway) | 136 | Rust | Unify multiple MCP Servers & Skills into a single gateway — with proxy... |
-| [LAVARONG/wechat-automation-api](https://github.com/LAVARONG/wechat-automation-api) | 118 | Python | 微信 Windows 版自动化发送服务（支持 4.0+ 版本）  基于 Flask + uiautomation 的 HTTP API 服务... |
+| [LAVARONG/wechat-automation-api](https://github.com/LAVARONG/wechat-automation-api) | 119 | Python | 微信 Windows 版自动化发送服务（支持 4.0+ 版本）  基于 Flask + uiautomation 的 HTTP API 服务... |
 | [liyupi/github-global](https://github.com/liyupi/github-global) | 111 | TypeScript | 2026 年编程导航 AI 编程实战新项目，基于 Next.js 15 + GitHub App + OpenRouter 的 GitHub... |
 | [510myRday/MCP-Gateway](https://github.com/510myRday/MCP-Gateway) | 101 | Rust | Unify multiple MCP Servers & Skills into a single gateway — with proxy... |
 | [melonlee/Sidonie](https://github.com/melonlee/Sidonie) | 62 | TypeScript | 将 MCP Server、REST API、OpenAPI 一键转换为 Claude Skill |
@@ -347,12 +347,12 @@
 
 | 项目 | ⭐ | 语言 | 描述 |
 |------|---:|:----:|------|
-| [infracost/infracost](https://github.com/infracost/infracost) | 12,318 | Go | Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 ... |
+| [infracost/infracost](https://github.com/infracost/infracost) | 12,319 | Go | Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 ... |
 | [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) | 7,497 | PowerShell | game of active directory |
-| [iflytek/skillhub](https://github.com/iflytek/skillhub) | 3,213 | Java | Self-hosted, open-source agent skill registry for enterprises. Publish... |
-| [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) | 1,929 | - | The Claude Agent Skill for Terraform and OpenTofu - testing, modules, ... |
-| [Xiangyu-CAS/xiaohongshu-ops-skill](https://github.com/Xiangyu-CAS/xiaohongshu-ops-skill) | 1,817 | - | 把Openclaw 变成小红书运营助手，帮你分析、选题、创作、复盘、复刻，甚至全面托管 |
-| [microsoft/azure-skills](https://github.com/microsoft/azure-skills) | 1,101 | - | Official agent plugin providing skills and MCP server configurations f... |
+| [iflytek/skillhub](https://github.com/iflytek/skillhub) | 3,231 | Java | Self-hosted, open-source agent skill registry for enterprises. Publish... |
+| [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) | 1,936 | - | The Claude Agent Skill for Terraform and OpenTofu - testing, modules, ... |
+| [Xiangyu-CAS/xiaohongshu-ops-skill](https://github.com/Xiangyu-CAS/xiaohongshu-ops-skill) | 1,826 | - | 把Openclaw 变成小红书运营助手，帮你分析、选题、创作、复盘、复刻，甚至全面托管 |
+| [microsoft/azure-skills](https://github.com/microsoft/azure-skills) | 1,110 | - | Official agent plugin providing skills and MCP server configurations f... |
 | [ine-labs/AzureGoat](https://github.com/ine-labs/AzureGoat) | 917 | Python | AzureGoat : A Damn Vulnerable Azure Infrastructure |
 | [dmmulroy/cloudflare-skill](https://github.com/dmmulroy/cloudflare-skill) | 704 | Shell |  |
 | [Ivy-Interactive/Ivy-Framework](https://github.com/Ivy-Interactive/Ivy-Framework) | 415 | C# | The ultimate framework for building internal tools with LLM code gener... |
@@ -382,38 +382,38 @@
 | [digininja/DVWA](https://github.com/digininja/DVWA) | 12,657 | PHP | Damn Vulnerable Web Application (DVWA) |
 | [S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet) | 6,501 | - | A cheat sheet that contains common enumeration and attack methods for ... |
 | [RPISEC/MBE](https://github.com/RPISEC/MBE) | 5,937 | C | Course materials for Modern Binary Exploitation by RPISEC |
+| [trailofbits/skills](https://github.com/trailofbits/skills) | 5,465 | Python | Trail of Bits Claude Code skills for security research, vulnerability ... |
 | [rapid7/metasploitable3](https://github.com/rapid7/metasploitable3) | 5,457 | HTML | Metasploitable3 is a VM that is built from the ground up with a large ... |
-| [trailofbits/skills](https://github.com/trailofbits/skills) | 5,448 | Python | Trail of Bits Claude Code skills for security research, vulnerability ... |
 | [meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama) | 4,194 | Python | Set of tools to assess and improve LLM security. |
+| [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) | 4,015 | Go | CyberStrikeAI is an AI-native security testing platform built in Go. I... |
 | [RPISEC/Malware](https://github.com/RPISEC/Malware) | 4,002 | - | Course materials for Malware Analysis by RPISEC |
-| [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) | 3,998 | Go | CyberStrikeAI is an AI-native security testing platform built in Go. I... |
-| [alexandreborges/malwoverview](https://github.com/alexandreborges/malwoverview) | 3,835 | Python | Malwoverview is a first response tool for threat hunting across VirusT... |
-| [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec) | 2,952 | TypeScript | Deepsec is a security harness for finding vulnerabilities in your code... |
-| [kite-org/kite](https://github.com/kite-org/kite) | 2,726 | TypeScript | 🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluste... |
+| [alexandreborges/malwoverview](https://github.com/alexandreborges/malwoverview) | 3,838 | Python | Malwoverview is a first response tool for threat hunting across VirusT... |
+| [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec) | 2,964 | TypeScript | Deepsec is a security harness for finding vulnerabilities in your code... |
+| [kite-org/kite](https://github.com/kite-org/kite) | 2,728 | TypeScript | 🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluste... |
 | [s4n7h0/xvwa](https://github.com/s4n7h0/xvwa) | 1,744 | PHP | XVWA is a badly coded web application written in PHP/MySQL that helps ... |
-| [0xSteph/pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents) | 1,612 | Shell | Turn Claude Code into your offensive security research assistant. Spec... |
-| [tmylla/Awesome-LLM4Cybersecurity](https://github.com/tmylla/Awesome-LLM4Cybersecurity) | 1,481 | - | An overview of LLMs for cybersecurity. |
-| [wgpsec/AboutSecurity](https://github.com/wgpsec/AboutSecurity) | 1,383 | Python | Everything for pentest. | 渗透测试知识库，以 AI Agent 可执行的格式沉淀安全方法论。 |
-| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 1,251 | Python | A Claude Code skill bundle for bug hunting and external red-team work ... |
+| [0xSteph/pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents) | 1,622 | Shell | Turn Claude Code into your offensive security research assistant. Spec... |
+| [tmylla/Awesome-LLM4Cybersecurity](https://github.com/tmylla/Awesome-LLM4Cybersecurity) | 1,480 | - | An overview of LLMs for cybersecurity. |
+| [wgpsec/AboutSecurity](https://github.com/wgpsec/AboutSecurity) | 1,390 | Python | Everything for pentest. | 渗透测试知识库，以 AI Agent 可执行的格式沉淀安全方法论。 |
+| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 1,325 | Python | A Claude Code skill bundle for bug hunting and external red-team work ... |
 | [shuvonsec/claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty) | 1,173 | Python | Claude Code skill for AI-assisted bug bounty hunting — recon, IDOR, XS... |
 | [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) | 1,153 | TypeScript | A Claude Code plugin that acts as a safety net, catching destructive g... |
 | [payatu/diva-android](https://github.com/payatu/diva-android) | 1,090 | Java | DIVA Android - Damn Insecure and vulnerable App for Android |
-| [prompt-security/clawsec](https://github.com/prompt-security/clawsec) | 1,014 | JavaScript | A complete security skill suite for OpenClaw's and NanoClaw agents (an... |
+| [prompt-security/clawsec](https://github.com/prompt-security/clawsec) | 1,015 | JavaScript | A complete security skill suite for OpenClaw's and NanoClaw agents (an... |
 | [FuzzingLabs/fuzzforge_ai](https://github.com/FuzzingLabs/fuzzforge_ai) | 779 | Python | AI-powered workflow automation and AI Agents platform for AppSec, Fuzz... |
 | [BrownFineSecurity/iothackbot](https://github.com/BrownFineSecurity/iothackbot) | 764 | Python | IoT HackBot: A collection of Claude Skills and custom tooling for hybr... |
-| [raroque/vibe-security-skill](https://github.com/raroque/vibe-security-skill) | 706 | - | Agent skill that audits vibe-coded apps for common security vulnerabil... |
+| [raroque/vibe-security-skill](https://github.com/raroque/vibe-security-skill) | 709 | - | Agent skill that audits vibe-coded apps for common security vulnerabil... |
 | [agentic-community/mcp-gateway-registry](https://github.com/agentic-community/mcp-gateway-registry) | 669 | Python | Enterprise-ready MCP Gateway & Registry that centralizes AI developmen... |
-| [0xSteph/pentest-ai](https://github.com/0xSteph/pentest-ai) | 548 | - | Turn Claude Code into your offensive security research assistant. Spec... |
+| [0xSteph/pentest-ai](https://github.com/0xSteph/pentest-ai) | 559 | - | Turn Claude Code into your offensive security research assistant. Spec... |
 | [cr0hn/vulnerable-node](https://github.com/cr0hn/vulnerable-node) | 484 | JavaScript | A very vulnerable web site written in NodeJS with the purpose of have ... |
 | [Vyntral/god-eye](https://github.com/Vyntral/god-eye) | 470 | Go | AI-powered subdomain enumeration tool with local LLM analysis via Olla... |
 | [ParetoSecurity/pareto-mac](https://github.com/ParetoSecurity/pareto-mac) | 429 | Swift | Automatically audit your Mac for basic security hygiene. |
 | [interference-security/DVWS](https://github.com/interference-security/DVWS) | 355 | PHP | OWSAP Damn Vulnerable Web Sockets (DVWS) is a vulnerable web applicati... |
-| [tsale/awesome-dfir-skills](https://github.com/tsale/awesome-dfir-skills) | 315 | Python | A curated collection of DFIR skills and workflows for InfoSec practiti... |
+| [tsale/awesome-dfir-skills](https://github.com/tsale/awesome-dfir-skills) | 314 | Python | A curated collection of DFIR skills and workflows for InfoSec practiti... |
 | [Nova-Hunting/nova-proximity](https://github.com/Nova-Hunting/nova-proximity) | 294 | Python | Nova-Proximity is a MCP and Agent Skills security scanner powered with... |
-| [CyberStrikeus/CyberStrike](https://github.com/CyberStrikeus/CyberStrike) | 291 | TypeScript | AI-powered offensive security agent with 7,300+ actionable security sk... |
+| [CyberStrikeus/CyberStrike](https://github.com/CyberStrikeus/CyberStrike) | 293 | TypeScript | AI-powered offensive security agent with 7,300+ actionable security sk... |
 | [getagentseal/agentseal](https://github.com/getagentseal/agentseal) | 279 | Python | Security toolkit for AI agents. Scan your machine for dangerous skills... |
+| [Eyadkelleh/awesome-claude-skills-security](https://github.com/Eyadkelleh/awesome-claude-skills-security) | 278 | PHP | Security testing toolkit for Claude Code: curated SecLists wordlists, ... |
 | [jd-opensource/JoySafeter](https://github.com/jd-opensource/JoySafeter) | 276 | Python | 🚀 JoySafeter: An enterprise AI Agent Platform—not just chat. Build, ru... |
-| [Eyadkelleh/awesome-claude-skills-security](https://github.com/Eyadkelleh/awesome-claude-skills-security) | 275 | PHP | Security testing toolkit for Claude Code: curated SecLists wordlists, ... |
 | [cathrynlavery/openclaw-ops](https://github.com/cathrynlavery/openclaw-ops) | 223 | Shell | OpenClaw operations skill with health checks, repair scripts, watchdog... |
 | [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 215 | Python | Security-audited skills for Claude, Codex & Claude Code. One-click ins... |
 | [AgentSeal/agentseal](https://github.com/AgentSeal/agentseal) | 192 | Python | Security toolkit for AI agents. Scan your machine for dangerous skills... |
@@ -425,21 +425,21 @@
 
 | 项目 | ⭐ | 语言 | 描述 |
 |------|---:|:----:|------|
-| [lightdash/lightdash](https://github.com/lightdash/lightdash) | 5,856 | TypeScript | Agentic BI. Analytics at the speed of code ⚡️ |
+| [lightdash/lightdash](https://github.com/lightdash/lightdash) | 5,858 | TypeScript | Agentic BI. Analytics at the speed of code ⚡️ |
 | [Audi-1/sqli-labs](https://github.com/Audi-1/sqli-labs) | 5,724 | PHP | SQLI labs to test error based, Blind boolean based, Time based. |
-| [baserow/baserow](https://github.com/baserow/baserow) | 4,911 | Python | Build databases, automations, apps & agents with AI — no code.  Open s... |
+| [baserow/baserow](https://github.com/baserow/baserow) | 4,916 | Python | Build databases, automations, apps & agents with AI — no code.  Open s... |
 | [liam-hq/liam](https://github.com/liam-hq/liam) | 4,713 | TypeScript | Automatically generates beautiful and easy-to-read ER diagrams from yo... |
-| [rilldata/rill](https://github.com/rilldata/rill) | 2,633 | Go | The fastest business intelligence tool for humans and agents. |
-| [benborla/mcp-server-mysql](https://github.com/benborla/mcp-server-mysql) | 1,731 | JavaScript | A Model Context Protocol server that provides read-only access to MySQ... |
+| [rilldata/rill](https://github.com/rilldata/rill) | 2,634 | Go | The fastest business intelligence tool for humans and agents. |
+| [benborla/mcp-server-mysql](https://github.com/benborla/mcp-server-mysql) | 1,741 | JavaScript | A Model Context Protocol server that provides read-only access to MySQ... |
 | [Toyhom/Chinese-medical-dialogue-data](https://github.com/Toyhom/Chinese-medical-dialogue-data) | 1,646 | Python | Chinese medical dialogue data 中文医疗对话数据集 |
 | [hashintel/hash](https://github.com/hashintel/hash) | 1,424 | Rust | 🚀  The open-source, multi-tenant platform for self-building knowledge ... |
 | [DEEP-PolyU/Awesome-LLM-based-Text2SQL](https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL) | 1,322 | - | [TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based ... |
-| [AltimateAI/altimate-code](https://github.com/AltimateAI/altimate-code) | 609 | TypeScript | Open-source agentic data engineering harness for dbt, SQL, and cloud w... |
-| [HKUSTDial/awesome-data-agents](https://github.com/HKUSTDial/awesome-data-agents) | 560 | Python | Continuously updated paper list on advancements in Data Agents. Compan... |
+| [AltimateAI/altimate-code](https://github.com/AltimateAI/altimate-code) | 610 | TypeScript | Open-source agentic data engineering harness for dbt, SQL, and cloud w... |
+| [HKUSTDial/awesome-data-agents](https://github.com/HKUSTDial/awesome-data-agents) | 561 | Python | Continuously updated paper list on advancements in Data Agents. Compan... |
 | [chroma-core/chroma-mcp](https://github.com/chroma-core/chroma-mcp) | 553 | Python | A Model Context Protocol (MCP) server implementation that provides dat... |
 | [9tigerio/db2rest](https://github.com/9tigerio/db2rest) | 458 | Java | Instant no code DATA API platform for relational databases. Connect an... |
-| [runekaagaard/mcp-alchemy](https://github.com/runekaagaard/mcp-alchemy) | 404 | Python | A MCP (model context protocol) server that gives the LLM access to and... |
-| [RichardHan/mssql_mcp_server](https://github.com/RichardHan/mssql_mcp_server) | 354 | Python | A Model Context Protocol (MCP) server for Microsoft SQL Server that en... |
+| [runekaagaard/mcp-alchemy](https://github.com/runekaagaard/mcp-alchemy) | 405 | Python | A MCP (model context protocol) server that gives the LLM access to and... |
+| [RichardHan/mssql_mcp_server](https://github.com/RichardHan/mssql_mcp_server) | 355 | Python | A Model Context Protocol (MCP) server for Microsoft SQL Server that en... |
 | [coffeefuelbump/csv-data-summarizer-claude-skill](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) | 308 | Python | A Claude Skill that automatically analyzes uploaded CSV files — genera... |
 | [XGenerationLab/xiyan_mcp_server](https://github.com/XGenerationLab/xiyan_mcp_server) | 236 | Python | A Model Context Protocol (MCP) server that enables natural language qu... |
 | [ogbinar/DataEngineeringPilipinas](https://github.com/ogbinar/DataEngineeringPilipinas) | 234 | HTML | Data Engineering Pilipinas is a community for data engineers, data ana... |
@@ -462,12 +462,12 @@
 
 | 项目 | ⭐ | 语言 | 描述 |
 |------|---:|:----:|------|
-| [refly-ai/refly](https://github.com/refly-ai/refly) | 7,330 | TypeScript | The first open-source agent skills builder. Define skills by vibe work... |
+| [refly-ai/refly](https://github.com/refly-ai/refly) | 7,332 | TypeScript | The first open-source agent skills builder. Define skills by vibe work... |
 | [openclaw/skills](https://github.com/openclaw/skills) | 4,465 | Python | All versions of all skills that are on clawdhub.com archived |
 | [clawdbot/skills](https://github.com/openclaw/skills) | 1,675 | Python | All versions of all skills that are on clawdhub.com archived |
-| [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 1,282 | TypeScript | The Apify MCP server enables your AI agents to extract data from socia... |
-| [openclaw/lobster](https://github.com/openclaw/lobster) | 1,215 | TypeScript | Lobster is a Openclaw-native workflow shell: a typed, local-first “mac... |
-| [quemsah/awesome-claude-plugins](https://github.com/quemsah/awesome-claude-plugins) | 755 | TypeScript | Automated collection of Claude Code plugin adoption metrics across Git... |
+| [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 1,284 | TypeScript | The Apify MCP server enables your AI agents to extract data from socia... |
+| [openclaw/lobster](https://github.com/openclaw/lobster) | 1,217 | TypeScript | Lobster is a Openclaw-native workflow shell: a typed, local-first “mac... |
+| [quemsah/awesome-claude-plugins](https://github.com/quemsah/awesome-claude-plugins) | 759 | TypeScript | Automated collection of Claude Code plugin adoption metrics across Git... |
 | [tfriedel/claude-office-skills](https://github.com/tfriedel/claude-office-skills) | 563 | Python | Office document creation and editing skills for Claude Code - PPTX, DO... |
 | [lawvable/awesome-legal-skills](https://github.com/lawvable/awesome-legal-skills) | 350 | Python | A curated list of awesome Agent Skills for automating legal work. |
 | [haunchen/n8n-skills](https://github.com/haunchen/n8n-skills) | 286 | TypeScript | Designed specifically for AI assistants, the n8n Workflow Automation S... |
@@ -488,43 +488,44 @@
 
 | 项目 | ⭐ | 语言 | 描述 |
 |------|---:|:----:|------|
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 85,169 | HTML | Collection of DESIGN.md files that capture design systems from popular... |
-| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 84,022 | Python | An AI SKILL that provide design intelligence for building professional... |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 85,508 | HTML | Collection of DESIGN.md files that capture design systems from popular... |
+| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 84,533 | Python | An AI SKILL that provide design intelligence for building professional... |
 | [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) | 29,886 | - | ⚡️ A collection of tips to help take your CSS skills pro 🦾 |
-| [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 12,832 | HTML | A Claude Code Skill that turns prompts into horizontal-swipe magazine-... |
-| [Dammyjay93/interface-design](https://github.com/Dammyjay93/interface-design) | 4,920 | Shell | Design engineering for Claude Code. Craft, memory, and enforcement for... |
+| [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 13,131 | HTML | A Claude Code Skill that turns prompts into horizontal-swipe magazine-... |
+| [Dammyjay93/interface-design](https://github.com/Dammyjay93/interface-design) | 4,923 | Shell | Design engineering for Claude Code. Craft, memory, and enforcement for... |
 | [standardagents/arrow-js](https://github.com/standardagents/arrow-js) | 3,523 | TypeScript | The first UI framework for the agentic era — tiny, performant, with WA... |
-| [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) | 2,952 | JavaScript | Extract any website's complete design system with one command. DTCG to... |
-| [VoltAgent/awesome-claude-design](https://github.com/VoltAgent/awesome-claude-design) | 2,440 | - | Awesome Claude Design: 68 ready-to-use design system inspirations in D... |
-| [dominikmartn/nothing-design-skill](https://github.com/dominikmartn/nothing-design-skill) | 2,391 | - | A Claude Code skill for generating UI in the Nothing design language. ... |
-| [bergside/design-md-chrome](https://github.com/bergside/design-md-chrome) | 2,094 | JavaScript | Chrome extension to extract styles from any website and generate DESIG... |
+| [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) | 2,965 | JavaScript | Extract any website's complete design system with one command. DTCG to... |
+| [VoltAgent/awesome-claude-design](https://github.com/VoltAgent/awesome-claude-design) | 2,461 | - | Awesome Claude Design: 68 ready-to-use design system inspirations in D... |
+| [dominikmartn/nothing-design-skill](https://github.com/dominikmartn/nothing-design-skill) | 2,399 | - | A Claude Code skill for generating UI in the Nothing design language. ... |
+| [bergside/design-md-chrome](https://github.com/bergside/design-md-chrome) | 2,105 | JavaScript | Chrome extension to extract styles from any website and generate DESIG... |
 | [inkline/inkline](https://github.com/inkline/inkline) | 1,439 | TypeScript | Inkline is the intuitive UI Components library that gives you a develo... |
-| [yetone/native-feel-skill](https://github.com/yetone/native-feel-skill) | 1,396 | - | An Agent Skill for designing cross-platform desktop apps that feel nat... |
-| [Owl-Listener/designer-skills](https://github.com/Owl-Listener/designer-skills) | 1,391 | - | Designer Skills Collection: agentic skills, commands, and plugins for ... |
-| [hamen/material-3-skill](https://github.com/hamen/material-3-skill) | 955 | - | Material Design 3 skill for Claude Code — 30+ components, design token... |
-| [carmahhawwari/ui-design-brain](https://github.com/carmahhawwari/ui-design-brain) | 803 | - | A Cursor skill that gives AI agents real UI component knowledge — best... |
+| [yetone/native-feel-skill](https://github.com/yetone/native-feel-skill) | 1,400 | - | An Agent Skill for designing cross-platform desktop apps that feel nat... |
+| [Owl-Listener/designer-skills](https://github.com/Owl-Listener/designer-skills) | 1,397 | - | Designer Skills Collection: agentic skills, commands, and plugins for ... |
+| [hamen/material-3-skill](https://github.com/hamen/material-3-skill) | 958 | - | Material Design 3 skill for Claude Code — 30+ components, design token... |
+| [carmahhawwari/ui-design-brain](https://github.com/carmahhawwari/ui-design-brain) | 804 | - | A Cursor skill that gives AI agents real UI component knowledge — best... |
 | [badass-courses/course-builder](https://github.com/badass-courses/course-builder) | 637 | TypeScript | 🍄 platform for building Badass Courses |
 | [gridaco/assistant](https://github.com/gridaco/assistant) | 617 | TypeScript | 🤖  Bring your Figma design & development pipeline to the next level - ... |
 | [ancoleman/ai-design-components](https://github.com/ancoleman/ai-design-components) | 321 | Python | Comprehensive UI/UX and Backend component design skills for AI-assiste... |
-| [mikesheehan54/Claude-Code-Design-AI](https://github.com/mikesheehan54/Claude-Code-Design-AI) | 289 | TypeScript | Claude Design: AI UI/UX architect. Screenshot to React, Figma componen... |
+| [mikesheehan54/Claude-Code-Design-AI](https://github.com/mikesheehan54/Claude-Code-Design-AI) | 290 | TypeScript | Claude Design: AI UI/UX architect. Screenshot to React, Figma componen... |
 | [Julpygo/Claude-Code-AI-Design](https://github.com/Julpygo/Claude-Code-AI-Design) | 252 | C++ | Claude Design Anthropic Tool Download April 2026 Figma to Code AI Agen... |
 | [LukeRenton/explore-claude-code](https://github.com/LukeRenton/explore-claude-code) | 229 | JavaScript | Learn Claude Code by exploring it as it was designed - interactive IDE... |
 | [zetaalphavector/inpars](https://github.com/zetaalphavector/InPars) | 199 | Python | Inquisitive Parrots for Search |
 | [bitjaru/styleseed](https://github.com/bitjaru/styleseed) | 198 | TypeScript | Claude Code & Cursor design system. Stop generating ugly AI UI. 69 des... |
-| [XimilalaXiang/DeLive](https://github.com/XimilalaXiang/DeLive) | 185 | TypeScript | System audio capture + multi-provider ASR + local-first AI review work... |
-| [oh-ashen-one/reddit-growth-skill](https://github.com/oh-ashen-one/reddit-growth-skill) | 141 | - | OpenClaw skill for Reddit community growth — human-style engagement, i... |
+| [XimilalaXiang/DeLive](https://github.com/XimilalaXiang/DeLive) | 198 | TypeScript | System audio capture + multi-provider ASR + local-first AI review work... |
+| [oh-ashen-one/reddit-growth-skill](https://github.com/oh-ashen-one/reddit-growth-skill) | 142 | - | OpenClaw skill for Reddit community growth — human-style engagement, i... |
 | [bergside/design-md-figma](https://github.com/bergside/design-md-figma) | 98 | TypeScript | Figma plugin that extracts local style guidelines and generates DESIGN... |
-| [yzfly/awesome-design-html](https://github.com/yzfly/awesome-design-html) | 77 | HTML | 113 brand-themed HTML designs as a Claude Code skill (91 web + 22 iOS,... |
+| [yzfly/awesome-design-html](https://github.com/yzfly/awesome-design-html) | 88 | HTML | 113 brand-themed HTML designs as a Claude Code skill (91 web + 22 iOS,... |
 | [AllenAI2014/pencil-ui-design](https://github.com/AllenAI2014/pencil-ui-design) | 66 | - | Pencil MCP 工业级 UI 设计 Skills 组件库 |
 | [EisonMe/newspaper-brief](https://github.com/EisonMe/newspaper-brief) | 50 | Python | Mobile-first newspaper-style brief image skill for OpenClaw |
 | [namyakhan/javascriptProjects](https://github.com/namyakhan/javascriptProjects) | 46 | JavaScript | Sharpen your JavaScript skills by building these awesome projects usin... |
 | [MarlBurroW/pinchchat](https://github.com/MarlBurroW/pinchchat) | 37 | TypeScript | A sleek, dark-themed webchat UI for OpenClaw 🦞 |
 | [IBM/tls-vuln-cheatsheet](https://github.com/IBM/tls-vuln-cheatsheet) | 29 | - | A quick reference for understanding the nature and severity of vulnera... |
-| [saifyxpro/ui-ux-design-pro-skill](https://github.com/saifyxpro/ui-ux-design-pro-skill) | 28 | TypeScript | AI spairings, 150+ reasoning rules, CLI, and 18 platform templates. Wo... |
+| [saifyxpro/ui-ux-design-pro-skill](https://github.com/saifyxpro/ui-ux-design-pro-skill) | 29 | TypeScript | AI spairings, 150+ reasoning rules, CLI, and 18 platform templates. Wo... |
 | [bichenxi/Oclaw](https://github.com/bichenxi/Oclaw) | 22 | Vue | 一键安装openClaw，可视化配置🦞、管理skill |
 | [Jayant-1/3D-Portfolio](https://github.com/Jayant-1/3D-Portfolio) | 17 | JavaScript | This project is a modern, interactive 3D portfolio website built with ... |
 | [oil-oil/oiloil-ui-ux-guide](https://github.com/oil-oil/oiloil-ui-ux-guide) | 17 | HTML |  |
-| [Arcadia-1/awesome-ams-skills](https://github.com/Arcadia-1/awesome-ams-skills) | 14 | HTML | Collection for agent skills on analog and mixed-signal (AMS) IC (integ... |
+| [Laith0003/ux-skill](https://github.com/Laith0003/ux-skill) | 16 | Python | Design intelligence engine for AI coding. 120 anti-pattern linter rule... |
+| [Arcadia-1/awesome-ams-skills](https://github.com/Arcadia-1/awesome-ams-skills) | 15 | HTML | Collection for agent skills on analog and mixed-signal (AMS) IC (integ... |
 | [zhirui-gao/awesome_3DV_skills](https://github.com/zhirui-gao/awesome_3DV_skills) | 12 | Python | This repository records useful knowledge and tips in the field of 3D v... |
 | [Ashutos1997/claude-design-auditor-skill](https://github.com/Ashutos1997/claude-design-auditor-skill) | 11 | - | A Claude skill that audits designs against 17 professional design rule... |
 
@@ -534,7 +535,7 @@
 
 | 项目 | ⭐ | 语言 | 描述 |
 |------|---:|:----:|------|
-| [RKiding/Awesome-finance-skills](https://github.com/RKiding/Awesome-finance-skills) | 2,358 | Python | A collection of Awesome Finance Agent Skills for free and easy to star... |
+| [RKiding/Awesome-finance-skills](https://github.com/RKiding/Awesome-finance-skills) | 2,365 | Python | A collection of Awesome Finance Agent Skills for free and easy to star... |
 | [himself65/finance-skills](https://github.com/himself65/finance-skills) | 717 | - | A collection of agent skills for financial analysis and trading. |
 | [xpaysh/awesome-x402](https://github.com/xpaysh/awesome-x402) | 224 | - | 🚀 Curated list of x402 resources: HTTP 402 Payment Required protocol f... |
 | [Rohit24567/HyperLiquid-Claw](https://github.com/Rohit24567/HyperLiquid-Claw) | 145 | Rust | Trade smarter, not harder. Hyperliquid Claw gives your AI assistant fu... |
@@ -548,30 +549,30 @@
 | 项目 | ⭐ | 语言 | 描述 |
 |------|---:|:----:|------|
 | [huggingface/skills](https://github.com/huggingface/skills) | 10,589 | Python |  |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | 8,791 | TypeScript | Skill Directory for OpenClaw |
-| [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | 5,763 | TypeScript |  |
+| [openclaw/clawhub](https://github.com/openclaw/clawhub) | 8,796 | TypeScript | Skill Directory for OpenClaw |
+| [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | 5,780 | TypeScript |  |
 | [vudovn/antigravity-kit](https://github.com/vudovn/antigravity-kit) | 5,445 | TypeScript |  |
 | [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) | 3,634 | Python |  |
-| [white0dew/XiaohongshuSkills](https://github.com/white0dew/XiaohongshuSkills) | 2,920 | Python | 支持小红书自动发布、自动评论、自动检索的 Skill。支持 OpenClaw、Codex、CC 等 |
-| [tmstack/awesome-persona-skills](https://github.com/tmstack/awesome-persona-skills) | 2,451 | - | 同事.skill、老板.skill、前任.skill、自己.skill、永生.skill、女娲.skill…… |
+| [white0dew/XiaohongshuSkills](https://github.com/white0dew/XiaohongshuSkills) | 2,930 | Python | 支持小红书自动发布、自动评论、自动检索的 Skill。支持 OpenClaw、Codex、CC 等 |
+| [tmstack/awesome-persona-skills](https://github.com/tmstack/awesome-persona-skills) | 2,475 | - | 同事.skill、老板.skill、前任.skill、自己.skill、永生.skill、女娲.skill…… |
 | [Dimillian/Skills](https://github.com/Dimillian/Skills) | 2,342 | Shell | My Codex Skills |
 | [sahil280114/codealpaca](https://github.com/sahil280114/codealpaca) | 1,505 | Python |  |
 | [touchlab/DroidconKotlin](https://github.com/touchlab/DroidconKotlin) | 1,136 | Kotlin | Kotlin Multiplatfom app for Droidcon Events |
 | [PharMolix/OpenBioMed](https://github.com/PharMolix/OpenBioMed) | 975 | Python |  |
-| [yann0917/dedao-dl](https://github.com/yann0917/dedao-dl) | 835 | Go | 得到 APP 课程下载工具，可在终端查看文章内容，可生成 PDF，音频文件，markdown 文稿，可下载电子书。可结合 openclaw ... |
+| [yann0917/dedao-dl](https://github.com/yann0917/dedao-dl) | 837 | Go | 得到 APP 课程下载工具，可在终端查看文章内容，可生成 PDF，音频文件，markdown 文稿，可下载电子书。可结合 openclaw ... |
 | [xionghonglin/DoctorGLM](https://github.com/xionghonglin/DoctorGLM) | 830 | Python | 基于ChatGLM-6B的中文问诊模型 |
 | [shikras/shikra](https://github.com/shikras/shikra) | 805 | Python |  |
 | [praetorian-inc/DVRF](https://github.com/praetorian-inc/DVRF) | 709 | HTML | The Damn Vulnerable Router Firmware Project |
 | [spylang/spy](https://github.com/spylang/spy) | 675 | Python | SPy language |
 | [vercel-labs/next-skills](https://github.com/vercel-labs/next-skills) | 664 | - |  |
-| [sundial-org/awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills) | 606 | Python | Top OpenClaw skills, with the most popular and useful ones. |
+| [sundial-org/awesome-openclaw-skills](https://github.com/sundial-org/awesome-openclaw-skills) | 607 | Python | Top OpenClaw skills, with the most popular and useful ones. |
 | [JavierOlmedo/shodan-filters](https://github.com/JavierOlmedo/shodan-filters) | 582 | - | A list of shodan filters |
 | [google-research/distilling-step-by-step](https://github.com/google-research/distilling-step-by-step) | 580 | Python |  |
 | [Sibo-Zhao/OpenPraxis](https://github.com/Sibo-Zhao/OpenPraxis) | 415 | Python | An OpenClaw-native knowledge retention skill that turns raw inputs int... |
 | [mattgodbolt/jsbeeb](https://github.com/mattgodbolt/jsbeeb) | 383 | JavaScript | Javascript BBC micro emulator |
+| [veryyoldman/openclaw-telegram-module](https://github.com/veryyoldman/openclaw-telegram-module) | 377 | Python | Telegram module/skill for openclaw setup with easy script setup |
 | [kinopeee/windsurf-antigravity-rules](https://github.com/kinopeee/windsurf-antigravity-rules) | 363 | - |  |
-| [spencerpauly/awesome-cursor-skills](https://github.com/spencerpauly/awesome-cursor-skills) | 333 | - | A curated list of awesome skills for Cursor |
-| [veryyoldman/openclaw-telegram-module](https://github.com/veryyoldman/openclaw-telegram-module) | 330 | Python | Telegram module/skill for openclaw setup with easy script setup |
+| [spencerpauly/awesome-cursor-skills](https://github.com/spencerpauly/awesome-cursor-skills) | 342 | - | A curated list of awesome skills for Cursor |
 | [harperreed/dotfiles](https://github.com/harperreed/dotfiles) | 297 | Vim Script | Dotfiles. Managed by YADM |
 | [duckdb/duckdb-skills](https://github.com/duckdb/duckdb-skills) | 289 | Shell |  |
 | [vigorX777/content-collector-skill](https://github.com/vigorX777/content-collector-skill) | 231 | Python | OpenClaw skill: 自动收集社交媒体内容并整理成结构化笔记存入飞书文档 |
@@ -584,8 +585,8 @@
 | [X2FD/LVIS-INSTRUCT4V](https://github.com/X2FD/LVIS-INSTRUCT4V) | 134 | - |  |
 | [tombii/better-ccflare](https://github.com/tombii/better-ccflare) | 110 | TypeScript | The ultimate CC proxy |
 | [mgonto/executive-assistant-skills](https://github.com/mgonto/executive-assistant-skills) | 110 | - | Make OpenClaw the best executive assistant in the world and fire your ... |
-| [zhaoolee/notes](https://github.com/zhaoolee/notes) | 108 | TypeScript | 一个高仿锤子便签的小工具，支持skill调用，支持导出便签为图片 |
-| [HM-RunningHub/OpenClaw_RH_Skills](https://github.com/HM-RunningHub/OpenClaw_RH_Skills) | 102 | Python |  |
+| [zhaoolee/notes](https://github.com/zhaoolee/notes) | 109 | TypeScript | 一个高仿锤子便签的小工具，支持skill调用，支持导出便签为图片 |
+| [HM-RunningHub/OpenClaw_RH_Skills](https://github.com/HM-RunningHub/OpenClaw_RH_Skills) | 103 | Python |  |
 | [hexian2001/soushen-hunter](https://github.com/hexian2001/soushen-hunter) | 98 | Python | 搜神猎手 - 高性能 Bing 搜索引擎 Skill for OpenClaw |
 
 ---
@@ -611,4 +612,4 @@ git clone https://github.com/lllray/awesome-skills.git
 
 ---
 
-<p align="center"><sub>✨ 自动整理 · 2026-05-28 20:05:21</sub></p>
+<p align="center"><sub>✨ 自动整理 · 2026-05-29 20:04:02</sub></p>
